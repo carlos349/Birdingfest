@@ -37,7 +37,7 @@
 		</div>
 			
 
-		<div class="wsize2 bg-img1 respon2" style="background-image: url('views/images/bg-img/construction.jpg');">
+		<div class="wsize2 bg-img1 respon2" style="background-image: url('views/images/img-dates/imgBird7.jpeg'); background-size: contain">
 		</div>
 	</div>
 </body>
