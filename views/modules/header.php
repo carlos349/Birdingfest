@@ -19,7 +19,7 @@
         </div>
         <!-- Logo Area -->
         <div class="logo-area">
-            <a href="index.html">Birding Fest</a>
+            <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
         </div>
         <!-- Nav -->
         <div class="sonarNav wow fadeInUp" data-wow-delay="1s">
@@ -64,7 +64,7 @@
                     <div class="menu-area d-flex justify-content-between">
                         <!-- Logo Area  -->
                         <div class="logo-area">
-                            <a href="index.html">Birding Fest</a>
+                            <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
                         </div>
 
                         <div class="menu-content-area d-flex align-items-center">
