@@ -19,7 +19,7 @@
         </div>
         <!-- Logo Area -->
         <div class="logo-area">
-            <a href="index.html">Sonar</a>
+            <a href="index.html">Birding Fest</a>
         </div>
         <!-- Nav -->
         <div class="sonarNav wow fadeInUp" data-wow-delay="1s">
@@ -50,6 +50,9 @@
             </nav>
         </div>
         <!-- Copwrite Text -->
+        <div class="copywrite-text">
+            
+        </div>
     </div>
     <!-- ***** Main Menu Area End ***** -->
 
@@ -61,7 +64,7 @@
                     <div class="menu-area d-flex justify-content-between">
                         <!-- Logo Area  -->
                         <div class="logo-area">
-                            <a href="index.html">Sonar</a>
+                            <a href="index.html">Birding Fest</a>
                         </div>
 
                         <div class="menu-content-area d-flex align-items-center">

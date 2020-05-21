@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Guvenca C.A</title>
+<title>Birding Fest</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Colo Shop Template">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="views/styles/style.css">
+<link rel="stylesheet" type="text/css" href="views/styles/util.css">
+<link rel="stylesheet" type="text/css" href="views/styles/main.css">
 
 </head>
 
@@ -24,6 +26,7 @@
 		<script src="views/js/plugins.js"></script>
 		<script src="views/js/map-active.js"></script>
 		<script src="views/js/active.js"></script>
+		<script src="views/js/main.js"></script>
 
 </body>
 

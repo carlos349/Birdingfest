@@ -201,14 +201,14 @@
                     <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Reality</h2>
+                            <h2>Fest</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p1.png" alt="">
+                            <img src="views/images/img-dates/imgBird1.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Italy in the sunset</h2>
+                            <p class="portfolio-date">May 16 - 18, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -219,11 +219,11 @@
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p2.png" alt="">
+                            <img src="views/images/img-dates/imgBird2.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Mountain Landscape</h2>
+                            <p class="portfolio-date">Sep 21 - 24, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -235,14 +235,14 @@
                     <div class="single-portfolio-item mt-100 portfolio-item-3 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Photography</h2>
+                            <h2 style="margin-top:25px;">Birding</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p3.png" alt="">
+                            <img src="views/images/img-dates/imgBird3.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Foggy sunset over the lake</h2>
+                            <p class="portfolio-date">May 25 - 28, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -250,17 +250,17 @@
 
             <div class="row justify-content-end">
                 <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6" style="margin-top:120px;">
                     <div class="single-portfolio-item portfolio-item-4 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p2.png" alt="">
+                            <img src="views/images/img-dates/imgBird4.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Clouds on mountain top</h2>
+                            <p class="portfolio-date">Oct 9 - 10 - 11, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -272,14 +272,14 @@
                     <div class="single-portfolio-item portfolio-item-5 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Hope</h2>
+                            <h2>Fest</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p5.png" alt="">
+                            <img src="views/images/img-dates/imgBird5.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Over the canion</h2>
+                            <p class="portfolio-date">May 25 - 26, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -290,11 +290,11 @@
                 <div class="col-12 col-md-4">
                     <div class="single-portfolio-item portfolio-item-6 wow fadeIn">
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p6.png" alt="">
+                            <img src="views/images/img-dates/imgBird6.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Mirror lake</h2>
+                            <p class="portfolio-date">May 27 - 28, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -306,14 +306,14 @@
                     <div class="single-portfolio-item portfolio-item-7 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Future</h2>
+                            <h2>Birding</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/p7.png" alt="">
+                            <img src="views/images/img-dates/imgBird7.jpeg" alt="">
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">Feb 02, 2018</p>
-                            <h2>Mirror lake</h2>
+                            <p class="portfolio-date">Sep 21 - Oct 18, 2020</p>
+                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
@@ -325,7 +325,7 @@
     <!-- ***** Call to Action Area Start ***** -->
     <div class="sonar-call-to-action-area section-padding-0-100">
         <div class="backEnd-content">
-            <h2>Dream</h2>
+            <h2>Fest</h2>
         </div>
         <div class="container">
             <div class="row">
@@ -341,6 +341,6 @@
     </div>
     <!-- ***** Call to Action Area End ***** -->
 
-    <!-- <?php //include('views/modules/footer.php') ?> -->
+    <?php include('views/modules/footer.php') ?>
 
 </body>
