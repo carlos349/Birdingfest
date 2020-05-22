@@ -35,7 +35,7 @@
 		</div>
 			
 
-		<div class="wsize2 bg-img1 respon2" style="background-image: url('views/images/img-dates/imgBird7.jpeg'); background-size: contain">
+		<div class="wsize2 bg-img1 respon2" style="background-image: url('views/images/img-dates/imgBird7.jpeg');background-size: contain; background-position-x: right; background-color: white;">
 		</div>
 	</div>
 </body>

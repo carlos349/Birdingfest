@@ -47,8 +47,8 @@
                         <div class="col-12">
                             <div class="hero-slides-content">
                                 <div class="line"></div>
-                                <h2>The Desert</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
+                                <h2>Loro</h2>
+                                <p>Psittacoidea (Loro) es una de las tres superfamilias del orden Psittaciformes. Contiene 369 especies de psitacoideos o loros típicos.1​ Los loros típicos son más numerosos y están más extendidos que las otras superfamilias de psitaciformes, las cacatúas y los escasos y confinados loros de Nueva Zelanda, ya que tienen representantes en América, África, Asia y Oceanía (desde Australia hasta la Polinesia).</p>
                             </div>
                         </div>
                     </div>
