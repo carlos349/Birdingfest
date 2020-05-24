@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="views/styles/style.css">
 <link rel="stylesheet" type="text/css" href="views/styles/util.css">
 <link rel="stylesheet" type="text/css" href="views/styles/main.css">
-
+<link rel="icon" type="image/png" sizes="16x16" href="views/images/core-img/icon.png">
 </head>
 
 <body>

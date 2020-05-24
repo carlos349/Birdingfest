@@ -4,9 +4,18 @@ class EnlacesModels{
 
 	public function enlacesModel($enlaces){
 
-		if( $enlaces == "about-me" ||
+		if( $enlaces == "About" ||
 			$enlaces == "contact" ||
-			$enlaces == "elements" ||
+			$enlaces == "Information" ||
+			$enlaces == "courses" ||
+			$enlaces == "Afrique" ||
+			$enlaces == "Bolivia" ||
+			$enlaces == "Manu" ||
+			$enlaces == "courses" ||
+			$enlaces == "Mediterraneo" ||
+			$enlaces == "Paraguay" ||
+			$enlaces == "Ringing" ||
+			$enlaces == "Stations" ||
 			$enlaces == "index" ||
 			$enlaces == "portfolio" ||
 			$enlaces == "services"){

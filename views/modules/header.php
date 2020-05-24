@@ -26,25 +26,37 @@
             <nav>
                 <ul>
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about-me.html">About Me</a>
+                        <a class="nav-link" href="courses">Courses and camp</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
+                        <a class="nav-link" href="Mediterraneo">Mediterraneo</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                        <a class="nav-link" href="Afrique">Afrique</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
+                        <a class="nav-link" href="Bolivia">Bolivia</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="Manu">Manu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="elements.html">Elements</a>
+                        <a class="nav-link" href="Paraguay">Paraguay</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ringing">Ringing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Stations">Stations</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="About">About us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Information">Info</a>
                     </li>
                 </ul>
             </nav>
