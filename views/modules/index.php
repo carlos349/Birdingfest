@@ -9,11 +9,13 @@
 
     <?php include('views/modules/header.php') ?>
 
+    
+
     <!-- ***** Hero Area Start ***** -->
     <section class="hero-area">
         <div class="hero-slides owl-carousel">
             <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide1.jpg);">
+            <!-- <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide1.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
                         <div class="col-12">
@@ -21,6 +23,20 @@
                                 <div class="line"></div>
                                 <h2>Sand Storm</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <!-- Single Hero Slide -->
+            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide4.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-end">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <div class="line"></div>
+                                <h2>Afrique</h2>
+                                <p>L’Afrique est un continent qui couvre 6 % de la surface de la Terre et 20 % de la surface des terres émergées. Sa superficie est de 30 415 873 km2 avec les îles, ce qui en fait la troisième mondiale si l'on compte l'Amérique comme un seul continent. .</p>
                             </div>
                         </div>
                     </div>
@@ -33,28 +49,71 @@
                         <div class="col-12">
                             <div class="hero-slides-content">
                                 <div class="line"></div>
-                                <h2>New York View</h2>
+                                <h2>Bolivia</h2>
+                                <p>The sovereign state of Bolivia is a constitutionally unitary state, divided into nine departments. Its geography varies from the peaks of the Andes in the West, to the Eastern Lowlands, situated within the Amazon Basin. It is bordered to the north and east by Brazil, to the southeast by Paraguay, to the south by Argentina, to the southwest by Chile, and to the northwest by Peru. One-third of the country is within the Andean mountain range.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Single Hero Slide -->
+            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide6.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-end">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <div class="line"></div>
+                                <h2>Manú National Park</h2>
+                                <p>Manú National Park (Spanish: Parque Nacional del Manú) is a national park and biosphere reserve located in the regions of Madre de Dios and Cusco in Peru. It protects diverse ecosystems such as lowland rainforests, cloud forests and Andean grasslands. The Manú Nature Reserve was established in 1968.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <!-- Single Hero Slide -->
+             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide5.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-end">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <div class="line"></div>
+                                <h2>Mediterraneo</h2>
+                                <p>The Mediterranean is an inland sea of the Atlantic Ocean, with which it connects through the Strait of Gibraltar. Surrounded by Europe, Africa, and Asia, it witnessed the evolution of various ancient civilizations such as Egyptians, Phoenicians, Hebrews, Greeks, Carthaginians, and Romans. With approximately 2.5 million km and 3,860 km in length, it is the second largest inland sea in the world, after the Caribbean.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Single Hero Slide -->
+            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide1.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-end">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <div class="line"></div>
+                                <h2>Paraguay</h2>
+                                <p>Republic of Paraguay (Spanish: República del Paraguay; Guarani: Tetã Paraguái), is a country in South America. It is bordered by Argentina to the south and southwest, Brazil to the east and northeast, and Bolivia to the northwest.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+            <!-- Single Hero Slide -->
+            <!-- <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide3.jpg);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-end">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <div class="line"></div>
+                                <h2>The Desert</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide3.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <div class="line"></div>
-                                <h2>Loro</h2>
-                                <p>Psittacoidea (Loro) es una de las tres superfamilias del orden Psittaciformes. Contiene 369 especies de psitacoideos o loros típicos.1​ Los loros típicos son más numerosos y están más extendidos que las otras superfamilias de psitaciformes, las cacatúas y los escasos y confinados loros de Nueva Zelanda, ya que tienen representantes en América, África, Asia y Oceanía (desde Australia hasta la Polinesia).</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Single Hero Slide -->
+            
             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide4.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
@@ -68,7 +127,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Single Hero Slide -->
+            
             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide1.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
@@ -82,7 +141,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Single Hero Slide -->
+            
             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide2.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
@@ -96,7 +155,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Single Hero Slide -->
+          
             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide3.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
@@ -110,7 +169,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Single Hero Slide -->
+            
             <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide4.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-end">
@@ -123,67 +182,30 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide1.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <div class="line"></div>
-                                <h2>Sand Storm</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide2.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <div class="line"></div>
-                                <h2>New York View</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide3.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <div class="line"></div>
-                                <h2>The Desert</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img slide-background-overlay" style="background-image: url(views/images/bg-img/slide4.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <div class="line"></div>
-                                <h2>Mountains Hike</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- ***** Hero Area End ***** -->
-
+        <!-- Modal -->
+        <div class="modal fade show" id="virusModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+            </div>
+        </div>
+        </div>
     <!-- ***** Portfolio Area Start ***** -->
     <div class="portfolio-area section-padding-100">
         <div class="container">
@@ -344,3 +366,10 @@
     <?php include('views/modules/footer.php') ?>
 
 </body>
+<script src="views/js/jquery/jquery-2.2.4.min.js"></script>
+<script>
+
+$(document).ready(function(){
+  $("#virusModal").modal('show')
+});
+</script>

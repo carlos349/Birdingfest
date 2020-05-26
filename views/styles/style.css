@@ -677,7 +677,7 @@ img {
     color: #f0f0f0;
     z-index: -10;
     top: -170px;
-    right: 40%; }
+    right: 20%; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-portfolio-item .backend-content h2 {
         font-size: 170px;

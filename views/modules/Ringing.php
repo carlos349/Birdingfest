@@ -19,156 +19,86 @@
             <div class="row">
                 <div class="col-12">
                     <div class="portfolio-title">
-                        <h2>Ringing</h2>
+                        <h2 style="margin-left:5%;padding-left:5%"> Ringing</h2>
                     </div>
                 </div>
             </div>
 
             <div class="row justify-content-between">
-                <!-- Single Portfoio Area -->
                 <div class="col-12 col-md-5">
                     <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Camp</h2>
+                            <h2>Ringing</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird1.jpeg" alt="">
+                            <p style="font-size: 1.5em;text-align: justify;">Following the first international calibration between bird ringers, held in 2019 at the Amazon Birding Fest, the initiative arose from the first specific bird fair for ringers. <br><br>
+                                 </p> <p style="font-size: 2em;text-align: center !important;">The proposal is to celebrate it biannually. And each time on a continent..</p>
                         </div>
                         <div class="portfolio-meta">
-                            <p class="portfolio-date">May 16 - 18, 2020</p>
-                            <h2>Birding Fest</h2>
                         </div>
                     </div>
                 </div>
-                <!-- Single Portfoio Area -->
                 <div class="col-12 col-md-6">
                     <div class="single-portfolio-item mt-230 portfolio-item-2 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird2.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">Sep 21 - 24, 2020</p>
-                            <h2>Birding Fest</h2>
+                            <img src="views/images/bg-img/section.jpg" alt="">
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="row">
-                <!-- Single Portfoio Area -->
+               
                 <div class="col-12 col-md-10">
                     <div class="single-portfolio-item mt-100 portfolio-item-3 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2 style="margin-top:25px;">Courses</h2>
+                            <h2 style="margin-top:25px;">Birning</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird3.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">May 25 - 28, 2020</p>
-                            <h2>Birding Fest</h2>
+                            <p style="font-size: 1.5em;text-align: justify;">
+                            We are designing the first edition. We will be very happy to receive your proposals or alliances in: ringing@birdingfest.net
+And follow us on ourfanpage:
+ <br> <a style="font-size: 1.8em;" href="www.facebook.com/birdringingfair/">www.facebook.com/birdringingfair/</a>
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="row justify-content-end">
-                <!-- Single Portfoio Area -->
+                
                 <div class="col-12 col-md-6" style="margin-top:120px;">
                     <div class="single-portfolio-item portfolio-item-4 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird4.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">Oct 9 - 10 - 11, 2020</p>
-                            <h2>Birding Fest</h2>
+                            <p style="font-size: 1.5em;text-align: justify;margin-top: 20%;z-index: 1000;"> We also participate in various bird fairs and we are part of the Mediterranean Birding Fest Round in Europe, an online and face-to-face bird festival that crosses Italy, Switzerland, France and Catalonia, hand in hand with reference ornithologists of the old continent and America.</p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="row">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-5">
-                    <div class="single-portfolio-item portfolio-item-5 wow fadeIn">
-                        <div class="backend-content">
-                            <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Fest</h2>
-                        </div>
-                        <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird5.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">May 25 - 26, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-4">
-                    <div class="single-portfolio-item portfolio-item-6 wow fadeIn">
-                        <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird6.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">May 27 - 28, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row justify-content-end">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-4">
-                    <div class="single-portfolio-item portfolio-item-7 wow fadeIn">
-                        <div class="backend-content">
-                            <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Birding</h2>
-                        </div>
-                        <div class="portfolio-thumb">
-                            <img src="views/images/img-dates/imgBird7.jpeg" alt="">
-                        </div>
-                        <div class="portfolio-meta">
-                            <p class="portfolio-date">Sep 21 - Oct 18, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Portfolio Area End ***** -->
-
-    <!-- ***** Call to Action Area Start ***** -->
-    <div class="sonar-call-to-action-area section-padding-0-100">
+     <div class="sonar-call-to-action-area section-padding-0-100">
         <div class="backEnd-content">
-            <h2>Fest</h2>
+            <h2 style="margin-left: 10%;">Fest</h2>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
-                        <h2>I am an experienced photographer</h2>
-                        <h5>Let’s talk</h5>
-                        <a href="#" class="btn sonar-btn mt-100">contact me</a>
+                       
+                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- ***** Call to Action Area End ***** -->
 
     <?php include('views/modules/footer.php') ?>
 
