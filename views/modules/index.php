@@ -187,21 +187,21 @@
     </section>
     <!-- ***** Hero Area End ***** -->
         <!-- Modal -->
-        <div class="modal fade show" id="virusModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div  class="modal fade show" id="virusModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
-            <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <div style="background-image: url(views/images/bg-img/bg-modal.jpg); background-size: cover;" class="modal-content">
+            <div style="border: none;" class="modal-header">
+                <h5 class="modal-title text-white" id="exampleModalLabel">CODVID-19</h5>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <div class="modal-body">
-                ...
+            <div class="modal-body text-white">
+                National Birdfair was being organized for 2020, but given the global health emergency, the festival has had to be postponed to 2021.
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
+            <div style="border: none;" class="modal-footer">
+                <button style="background-color: #6c757d66;border: none;" type="button" class="btn btn-secondary" data-dismiss="modal">¡OK!</button>
+                
             </div>
             </div>
         </div>
