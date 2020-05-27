@@ -29,7 +29,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="courses">Courses and camp</a>
+                        <a class="nav-link" href="courses">Courses and camps</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Mediterraneo">Mediterraneo</a>

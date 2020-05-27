@@ -197,7 +197,7 @@
                 </button>
             </div>
             <div class="modal-body text-white">
-                National Birdfair was being organized for 2020, but given the global health emergency, the festival has had to be postponed to 2021.
+                Our Nationals Bird fairs was being organized for 2020, but given the global health emergency, the festival has had to be postponed to 2021.
             </div>
             <div style="border: none;" class="modal-footer">
                 <button style="background-color: #6c757d66;border: none;" type="button" class="btn btn-secondary" data-dismiss="modal">¡OK!</button>

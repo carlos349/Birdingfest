@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="portfolio-title">
-                        <h2>Courses and Camp</h2>
+                        <h2>Courses and Camps</h2>
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
                     <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Camp</h2>
+                            <h2>Camps</h2>
                         </div>
                         <div class="portfolio-thumb">
                             <img src="views/images/core-img/c1.jpeg" alt="">
@@ -38,7 +38,7 @@
                         <div class="portfolio-meta">
                             <p class="portfolio-date">Sep 21 - 24, 2020</p>
                             <h3></h3>
-                            <h2>D'ornitologia I birding</h2>
+                            <h2>D'Ornitologia i Birding</h2>
                         </div>
                     </div>
                 </div>
