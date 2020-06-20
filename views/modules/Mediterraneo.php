@@ -62,7 +62,7 @@
             </div>
           </div>
           <div id="paypal-button-container"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=ASy-KW8vpXnf6s2xG6W_4VoEJ3Ub-1PobuQHhLD_qp-wu3rtKYb18mGa7mVwyW_N7l9WnyEjXQDImRif&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=ASy-KW8vpXnf6s2xG6W_4VoEJ3Ub-1PobuQHhLD_qp-wu3rtKYb18mGa7mVwyW_N7l9WnyEjXQDImRif&currency=EUR" data-sdk-integration-source="button-factory"></script>
 <script>
   paypal.Buttons({
       style: {
