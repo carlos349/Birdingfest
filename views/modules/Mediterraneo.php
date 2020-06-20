@@ -13,6 +13,82 @@
         
         </section>
 
+        <div class="containerTime">
+            
+            <div class="timeline">
+              <div class="swiper-container">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=11" data-year="Dia 1">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 1</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=12" data-year="Dia 2">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 2</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=13" data-year="Dia 3">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 3</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=14" data-year="Dia 4">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 4</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=15" data-year="Dia 5">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 5</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                  <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=16" data-year="Dia 5">
+                    <div class="swiper-slide-content"><span class="timeline-year">Dia 6</span>
+                      <h4 class="timeline-title">Our nice super title</h4>
+                      <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
+          </div>
+          <div id="paypal-button-container"></div>
+          <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+          <script>
+          paypal.Buttons({
+          style: {
+          shape: 'pill',
+                    color: 'gold',
+          layout: 'vertical',
+                    label: 'pay',
+          
+                },
+          createOrder: function(data, actions) {
+          returnactions.order.create({
+          purchase_units: [{
+          amount: {
+          value: '50'
+                            }
+                        }]
+                    });
+                },
+          onApprove: function(data, actions) {
+          returnactions.order.capture().then(function(details) {
+          alert('Transactioncompletedby ' + details.payer.name.given_name + '!');
+                    });
+                }
+            }).render('#paypal-button-container');
+          </script>
+          
     <!-- ***** Portfolio Area Start ***** -->
     <div class="portfolio-area section-padding-100">
         <div class="container">
