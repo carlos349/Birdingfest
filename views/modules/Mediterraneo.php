@@ -306,10 +306,10 @@
                     Melina Balderrama (Bolivia Birding Fest)<br>
                     Ruben Morales (Paraguay Birding Fest)<br> <br>
                     </p>
-                    <h4 class="timeline-title"><span class="badge badge-light">10 / 10:45</span> Sergi Sales: Cómo fomentar el turismo ornitológico según el interés del público objetivo</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">10:45 / 11:30</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">11:30 / 12:15</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">12:15 / 12:45</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">10 / 10:45</span> Sergi Sales: Cómo fomentar el turismo ornitológico según el interés del público objetivo</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">10:45 / 11:30</span>Carles Barriocanal: 25 años estudiando la migración de primavera por el Mediterráneo occidental: ¿qué hemos aprendido?</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">11:30 / 12:15</span> David Fernández: Asincronía fenológica en aves provocada por el cambio climático</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">12:15 / 12:45</span> Ricard Gutiérrez: Las últimas de las Filipinas. Entendiendo las aves litorales y marinas y sus hábitats</h4> <br>
                 </div>
               </div>
               <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=12" data-year="Dia 2">
