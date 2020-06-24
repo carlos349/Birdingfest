@@ -162,6 +162,8 @@
               <img class="modal-content1" id="img03">
               
             </div>
+
+            <p style="text-align: center;font-size: 25px;">info: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 25px;" href="www.ja.cat/birdingfest">www.ja.cat/birdingfest</a> </p>
             <div class="row">
                 <!-- Single Portfoio Area -->
                 <div class="col-12 col-md-10">
