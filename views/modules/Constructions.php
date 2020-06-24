@@ -35,7 +35,16 @@
 		</div>
 			
 
-		<div class="wsize2 bg-img1 respon2" style="background-image: url('views/images/img-dates/imgBird7.jpeg');background-size: contain; background-position-x: right; background-color: white;">
+	
+		<div  onclick="go()" class="wsize2 bg-img1 respon2" style="background-image: url('views/images/img-dates/imgBird7.jpeg');background-size: contain; background-position-x: right; background-color: white;cursor: pointer;">
 		</div>
+	
 	</div>
+
+	<script>
+		function go() {
+			window.location = "mediterraneo"
+		}
+		
+	</script>
 </body>
