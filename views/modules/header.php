@@ -20,6 +20,15 @@
         <!-- Logo Area -->
         <div class="logo-area">
             <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
+            <div style="color:black !important" id="google_translate_element" class="google"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+	new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'ca,en,fr,it,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true}, 'google_translate_element');
+        }
+</script>
+
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         </div>
         <!-- Nav -->
         <div class="sonarNav wow fadeInUp" data-wow-delay="1s">
@@ -32,31 +41,31 @@
                         <a class="nav-link" href="courses">Courses and camps</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Mediterraneo">Mediterraneo</a>
+                        <a class="nav-link" href="mediterraneo">Mediterraneo</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Afrique">Afrique</a>
+                        <a class="nav-link" href="afrique">Afrique</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Bolivia">Bolivia</a>
+                        <a class="nav-link" href="bolivia">Bolivia</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Manu">Manu</a>
+                        <a class="nav-link" href="manu">Manu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Paraguay">Paraguay</a>
+                        <a class="nav-link" href="paraguay">Paraguay</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Ringing">Ringing</a>
+                        <a class="nav-link" href="ringing">Ringing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Stations">Stations</a>
+                        <a class="nav-link" href="stations">Stations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="About">About us</a>
+                        <a class="nav-link" href="about">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Information">Info</a>
+                        <a class="nav-link" href="information">Info</a>
                     </li>
                 </ul>
             </nav>

@@ -8,14 +8,17 @@ class EnlacesModels{
 			$enlaces == "contact" ||
 			$enlaces == "Information" ||
 			$enlaces == "courses" ||
-			$enlaces == "Afrique" ||
-			$enlaces == "Bolivia" ||
-			$enlaces == "Manu" ||
+			$enlaces == "afrique" ||
+			$enlaces == "bolivia" ||
+			$enlaces == "manu" ||
 			$enlaces == "courses" ||
-			$enlaces == "Mediterraneo" ||
-			$enlaces == "Paraguay" ||
-			$enlaces == "Ringing" ||
-			$enlaces == "Stations" ||
+			$enlaces == "mediterraneo" ||
+			$enlaces == "paraguay" ||
+			$enlaces == "ringing" ||
+			$enlaces == "stations" ||
+			$enlaces == "paypal1" ||
+			$enlaces == "paypal2" ||
+			$enlaces == "paypal3" ||
 			$enlaces == "index" ||
 			$enlaces == "portfolio" ||
 			$enlaces == "services"){
