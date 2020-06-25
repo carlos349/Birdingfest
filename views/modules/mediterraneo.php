@@ -26,7 +26,7 @@
                     <div class="portfolio-title">
                         <img src="views/images/core-img/mediterranean.png" alt="">
                         <h2>
-                          15 a 20 de julio de 2020 <br> <br>
+                          15 a 20 de julio de 2020 <br> <img style="width: 5%;" src="views/images/pdf.png" alt=""> <a style="font-size: 50px;" download="Mediterranean BirdingFest Round" href="views/images/Mediterranean-BirdingFest-Round.pdf">Descargar PDF</a> <br> <br>
                           </h2>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                     </div>
                 </div>
             </div>
-            <p style="text-align: justify;font-size:25px;"> <br><br> En 2020 la Vuelta Mediterránea de las Birdfairs(MediterraneanBirdingFestRound) no pasará por ninguna feria, ya que éstas se han aplazadopor la situación sanitaria global.No obstante,del 21 al 24 de septiembre estaremos en el Delta del Ebro (Cataluña) con la FundacióPlegadis en un curso internacional de ornitología y anillamiento, que replicaremos del 9 al 11 de octubre en la StazioneOrnitologicaOasicostiera (Italia) y del 16 al 18 de octubre en Limoges (Francia).</p>
+            <p style="text-align: justify;font-size:25px;"> <br><br> En 2020 la Vuelta Mediterránea de las Birdfairs (Mediterranean BirdingFest Round) no pasará por ninguna feria, ya que éstas se han aplazadopor la situación sanitaria global. No obstante, del 21 al 24 de septiembre estaremos en el Delta del Ebro (Cataluña) con la Fundación Plegadis en un curso internacional de ornitología y anillamiento, que replicaremos del 9 al 11 de octubre en la Stazione Ornitologica Oasi costiera (Italia) y del 16 al 18 de octubre en Limoges (Francia).</p>
             <center> <br> <br><br>
               <img id="myImg1" src="views/images/core-img/c1.jpeg"  style="width:100%;max-width:300px">
               <img id="myImg2" src="views/images/core-img/c2.jpeg"  style="width:100%;max-width:300px">
@@ -163,7 +163,7 @@
               
             </div>
 
-            <p style="text-align: center;font-size: 25px;">info: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 25px;" href="www.ja.cat/birdingfest">www.ja.cat/birdingfest</a> </p>
+            <p style="text-align: center;font-size: 25px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 25px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirdingfest</a> </p>
             <div class="row">
                 <!-- Single Portfoio Area -->
                 <div class="col-12 col-md-10">
@@ -261,7 +261,7 @@
         <div class="timeline">
           <div class="swiper-container">
             <div class="swiper-wrapper">
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=11" data-year="Dia 1">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-1.jpg')" data-year="Dia 1">
                 <div style="width:35%" id="carouselExampleInterval2" class="carousel slide  ml-5" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="1000">
@@ -312,7 +312,7 @@
                     <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">12:15 / 12:45</span> Ricard Gutiérrez: Las últimas de las Filipinas. Entendiendo las aves litorales y marinas y sus hábitats</h4> <br>
                 </div>
               </div>
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=12" data-year="Dia 2">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-2.jpg')" data-year="Dia 2">
                 
                     <div style="width:35%" id="carouselExampleInterval" class="carousel slide  ml-5" data-ride="carousel">
                         <div class="carousel-inner">
@@ -366,7 +366,7 @@
                   
                 
               </div>
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=13" data-year="Dia 3">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-3.jpg')" data-year="Dia 3">
                 <div style="width:35%" id="carouselExampleInterval3" class="carousel slide  ml-5" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="500">
@@ -423,7 +423,7 @@
                        <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">12:30 / 13:00</span> Rubén Morales: El espíritu de los Andes. Situación y proyectos de conservación del Cóndor Andino</h4>
                 </div>
               </div>
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=14" data-year="Dia 4">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-4.jpg')" data-year="Dia 4">
                 <div style="width:35%" id="carouselExampleInterval4" class="carousel slide  ml-5" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="500">
@@ -476,7 +476,7 @@
                        <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">12:10 / 12:20</span> Marilena Perbellini & Sandro Brina: Invitación al "Gemellaggio Ornitologico Italia - Amazzonia"</h4>
                 </div>
               </div>
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=15" data-year="Dia 5">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-5.jpg')" data-year="Dia 5">
                 <div style="width:35%" id="carouselExampleInterval4" class="carousel slide  ml-5" data-ride="carousel">
                     <!-- <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="500">
@@ -521,7 +521,7 @@
                       
                 </div>
               </div>
-              <div class="swiper-slide" style="background-image: url(https://unsplash.it/1920/500?image=16" data-year="Dia 6">
+              <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-6.jpg')" data-year="Dia 6">
                 <div style="width:35%" id="carouselExampleInterval6" class="carousel slide  ml-5" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="500">
@@ -618,9 +618,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
-                        <h2>We are experienced birding</h2>
                         
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        
+                        <a href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y" class="btn sonar-btn mt-100">contact us</a>
                     </div>
                 </div>
             </div>
