@@ -12,7 +12,7 @@
     $from = "cristiansleonardo@gmail.com";
     $to = "cristiansleonardo@gmail.com";
     $subject = "Checking PHP mail";
-    $message = "Nombre:".$nombre. '<br>' . "Apellido:".$apellido. '\n '. "Correo:".$correo.'\n'."Numero:".$numero;
+    $message = "Nombre:".$nombre. PHP_EOL. "Apellido:".$apellido. '\n '. "Correo:".$correo.'\n'."Numero:".$numero;
     $headers = "From:" . $from;
     mail($to,$subject,$message, $headers);
     echo "The email message was sent.";
