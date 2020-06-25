@@ -10,15 +10,7 @@
         <!-- Logo Area -->
         <div class="logo-area">
             <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
-            <div style="color:black !important" id="google_translate_element" class="google"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-	new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'ca,en,fr,it,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true}, 'google_translate_element');
-        }
-</script>
-
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            
         </div>
         <!-- Nav -->
         <div class="sonarNav wow fadeInUp" data-wow-delay="1s">
