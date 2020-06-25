@@ -195,7 +195,7 @@ function googleTranslateElementInit() {
               
             </div>
 
-            <p style="text-align: center;font-size: 25px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 25px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirdingfest</a> </p>
+            <p style="text-align: center;font-size: 20px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 20px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirdingfest</a> </p>
             <div class="row">
                 <!-- Single Portfoio Area -->
                 
