@@ -13,7 +13,7 @@
 				</h3>
 
 				<p class="m2-txt1 p-b-46">
-					Follow us for update now!
+					Somos una entidad sin ánimo de lucro que proporciona conocimientos y experiencia a través de cursos asociados a la ornitología y el Birding, en diferentes países del mundo. Damos recursos a proyectos de educación ambiental y a estaciones ornitológicas/biológicas  (especialmente en América del sur). También asesoramos y colaboramos en una decena de Birdfairs.
 				</p>
 				
 			</div>

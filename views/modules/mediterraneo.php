@@ -31,96 +31,35 @@
                     </div>
                 </div>
             </div>
-
-            <div class="row justify-content-between">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-5">
-                    <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
-                        <div class="backend-content">
-                            
-                            <h2 style="margin-right: -160%;">Mediterranean</h2>
-                            <img class="dots" style="margin-top: 200px;" src="views/images/core-img/logoMediterranean.png" alt="">
-                        </div>
-                        <div class="portfolio-thumb">
-                            <p style="font-size: 2em;text-align: center !important;">Iniciamos nuestra edición online del Mediterranean Birding Fest Round con cinco grandes temas para tratar:</p>
-                            <p style="font-size: 1.5em;text-align: justify;"> <br>
+            <div class="container">
+              <p style="font-size: 2em;text-align: center !important;">Iniciamos nuestra edición online del Mediterranean Birding Fest Round con cinco grandes temas para tratar:</p>
+                            <p style="font-size: 1.5em;text-align: center;"> <br>
                               •	Birdfairs emergentes (fórmulas de colaboración) <br>
-                              •	Birdfairs y Desarrollo<br>
+                              •	Birdfairs y Desarrollo
                               •	Alojamientos y Birders<br>
-                              •	Birding y Educación Ambiental<br>
+                              •	Birding y Educación Ambiental
                               •	Birding 2.0:Rewilding y Economía<br>
-                              
-                            </p> <br><br>
-                            <p style="font-size: 2em;text-align: justify !important;">Ya puedes ir eligiendo el tuyo:</p>
-                            
-                              <p style="font-size: 2em;text-align: justify !important;">-Colombia:</p> <br>
-                              <p style="font-size: 1.5em;text-align: justify;">
-                              	• Chocó  <br>
-                              	• Manizales<br>
-                              	• Fusagasugá  <br>
-                                • Medellín <br>
-                              
-                              <p style="font-size: 2em;text-align: justify !important;">-Perú:</p> <br>
-                              <p style="font-size: 1.5em;text-align: justify;">
-                              • Manu, Cusco <br>
-                              • Pucallpa <br>
-                              
-                              <p style="font-size: 2em;text-align: justify !important;">-Ecuador:</p> <br>
-                              <p style="font-size: 1.5em;text-align: justify;">
-                                • Quito <br>
-                              </p>
-                              <p style="font-size: 2em;text-align: justify !important;">-Cataluña:</p> <br>
-                              <p style="font-size: 1.5em;text-align: justify;">
-
-                              	• Delta del Ebro (Cataluña)<br>
-                                • EB Moianès (Cataluña)<br>
-                              </p>
-                              <p style="font-size: 2em;text-align: justify !important;">-Otros:</p> <br>
-                              <p style="font-size: 1.5em;text-align: justify;">
-
-                              	• EO Oasicostiera <br>
-                              	• Francia<br>
-                              	• Guatemala<br>
-                              	• Himalaya <br>
-                              
-                              	
-                              
-                              	• P.N. des Oiseaux (Senegal)<br>
-                              	
-                              	
-                              	• Tanzania<br>
-                              </p>
-                                
-                            
-                        </div>
-                        <!-- <div class="portfolio-meta">
-                            <p class="portfolio-date">May 16 - 18, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div> -->
-                    </div>
-                </div>
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-6">
-                    <div class="single-portfolio-item mt-230 portfolio-item-2 wow fadeIn">
-                        <div class="backend-content">
-                            <img class="dots" src="views/images/core-img/logoMediterranean.png" alt="">
-                        </div>
-                        <div class="portfolio-thumb">
-                            <p style="font-size: 2em;text-align: center !important;"></p>
-                            <p style="font-size: 1.5em;text-align: justify;">Un elenco de grandes expertos de cada temática participaran en ellas. Se suman 24 conferencias que abordarán temas fundamentales para obtener la excelencia en nuestros programas y alojamientos, el desarrollo económico a partir del birding y, particularmente, las iniciativas y propuestas en el momento de post-pandemia que atravesamos. Por supuesto también la evaluación en temas como el efecto del cambio climático sobre la fenología y migración de las aves. <br><br>
-                              Pero además de la ciencia o, a través de ella, algunos de los más destacados comunicadores en aves de Europa nos acompañarán para darle otra visión, sorpresa o unas sonrisas a la ornitología. <br><br>
-                              Son 48 invitados a lo largo de los seis días. Con un broche de oro en la última jornada donde llegamos al Birding 2.0, la economía y las estrategias de conservación que antes eran futuro y ahora son el presente más palpable, como el rewilding. <br><br>
-                              El domingo 19 nos conectaremos solo un rato. Es un día de descanso, pero también para celebrar. Ese día los coordinadores de campamentos ornitológicos en el Himalaya, el Manu del Perú, Tanzania o el Mediterráneo, un total de 15 en 11 países nos hablarán desde sus propuestas y podremos elegir uno, a donde podremos ir… invitados! Un obsequio para que nos podamos encontrar en 2021 tras esta cuarentena que nos ha frenado las alas.
-                              
-                                 
+                              <br><br><br>
                             </p>
-                        </div>
-                        <!-- <div class="portfolio-meta">
-                            <p class="portfolio-date">Sep 21 - 24, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div> -->
-                    </div>
-                </div>
+            </div>
+
+            <div class="container">
+              <div class="row">
+                <div class="col-6"><p style="font-size: 1.5em;text-align: justify;">Un elenco de grandes expertos de cada temática participaran en ellas. Se suman 24 conferencias que abordarán temas fundamentales para obtener la excelencia en nuestros programas y alojamientos, el desarrollo económico a partir del birding y, particularmente, las iniciativas y propuestas en el momento de post-pandemia que atravesamos. Por supuesto también la evaluación en temas como el efecto del cambio climático sobre la fenología y migración de las aves. <br><br>
+                  Pero además de la ciencia o, a través de ella, algunos de los más destacados comunicadores en aves de Europa nos acompañarán para darle otra visión, sorpresa o unas sonrisas a la ornitología.  </p>  </div>
+                <div class="col-6"><p style="font-size: 1.5em;text-align: justify;">
+                  Son 48 invitados a lo largo de los seis días. Con un broche de oro en la última jornada donde llegamos al Birding 2.0, la economía y las estrategias de conservación que antes eran futuro y ahora son el presente más palpable, como el rewilding. <br><br>
+                  El domingo 19 nos conectaremos solo un rato. Es un día de descanso, pero también para celebrar. Ese día los coordinadores de campamentos ornitológicos en el Himalaya, el Manu del Perú, Tanzania o el Mediterráneo, un total de 15 en 11 países nos hablarán desde sus propuestas y podremos elegir uno, a donde podremos ir… invitados! Un obsequio para que nos podamos encontrar en 2021 tras esta cuarentena que nos ha frenado las alas. <br><br><br>
+                  
+                     
+                </p></div>
+              </div>
+            </div>
+            <div class="container">
+              <center>
+                <img style="z-index: 10;" src="views/images/core-img/elige.jpg" alt="">
+              </center>
+              
             </div>
             <div class="row justify-content-between">
                 <!-- Single Portfoio Area -->
@@ -308,6 +247,24 @@
                       <div class="carousel-item">
                         <img src="views/images/core-img/con-4.jpg" class="d-block w-100" alt="...">
                       </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/elaise.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/flavia.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/leonardo.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/manuel.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/melina.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/beltran.jpg" class="d-block w-100" alt="...">
+                      </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleInterval2" role="button" data-slide="prev">
                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -319,7 +276,7 @@
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest miercoles 15</span>
-                  <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4>
+                  <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
@@ -371,7 +328,7 @@
                         </a>
                       </div>
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest jueves 16</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Birdfairs y Desarrollo</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Abel Julien. <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
@@ -425,7 +382,7 @@
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Alojamientos y Birders viernes 17</span>
                     <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Alojamientos y Birders</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Xavier Amigó. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
@@ -478,8 +435,8 @@
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 18</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Birding y Educación Ambiental</h4>
+                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sábado 18</span>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Sergi Sales. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Barreto /
@@ -531,7 +488,7 @@
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 19</span>
+                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest domingo 19</span>
                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 AM - Barcelona: 17:30 / 18:30</span> Elige tu curso o campamento ornitológico gratuito</h4> <br>
                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
                       <h4 class="timeline-title" ><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
@@ -576,8 +533,8 @@
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 20</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertúlia Birding, Rewilding y Economía</h4>
+                <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest lunes 20</span>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Àlex de Juan. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Héctor Cardozo (Amazon Birding Fest) <br>
