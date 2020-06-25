@@ -50,7 +50,48 @@
                               •	Birding y Educación Ambiental<br>
                               •	Birding 2.0:Rewilding y Economía<br>
                               
-                            </p> 
+                            </p> <br><br>
+                            <p style="font-size: 2em;text-align: justify !important;">Ya puedes ir eligiendo el tuyo:</p>
+                            
+                              <p style="font-size: 2em;text-align: justify !important;">-Colombia:</p> <br>
+                              <p style="font-size: 1.5em;text-align: justify;">
+                              	• Chocó  <br>
+                              	• Manizales<br>
+                              	• Fusagasugá  <br>
+                                • Medellín <br>
+                              
+                              <p style="font-size: 2em;text-align: justify !important;">-Perú:</p> <br>
+                              <p style="font-size: 1.5em;text-align: justify;">
+                              • Manu, Cusco <br>
+                              • Pucallpa <br>
+                              
+                              <p style="font-size: 2em;text-align: justify !important;">-Ecuador:</p> <br>
+                              <p style="font-size: 1.5em;text-align: justify;">
+                                • Quito <br>
+                              </p>
+                              <p style="font-size: 2em;text-align: justify !important;">-Cataluña:</p> <br>
+                              <p style="font-size: 1.5em;text-align: justify;">
+
+                              	• Delta del Ebro (Cataluña)<br>
+                                • EB Moianès (Cataluña)<br>
+                              </p>
+                              <p style="font-size: 2em;text-align: justify !important;">-Otros:</p> <br>
+                              <p style="font-size: 1.5em;text-align: justify;">
+
+                              	• EO Oasicostiera <br>
+                              	• Francia<br>
+                              	• Guatemala<br>
+                              	• Himalaya <br>
+                              
+                              	
+                              
+                              	• P.N. des Oiseaux (Senegal)<br>
+                              	
+                              	
+                              	• Tanzania<br>
+                              </p>
+                                
+                            
                         </div>
                         <!-- <div class="portfolio-meta">
                             <p class="portfolio-date">May 16 - 18, 2020</p>
@@ -67,8 +108,9 @@
                         <div class="portfolio-thumb">
                             <p style="font-size: 2em;text-align: center !important;"></p>
                             <p style="font-size: 1.5em;text-align: justify;">Un elenco de grandes expertos de cada temática participaran en ellas. Se suman 24 conferencias que abordarán temas fundamentales para obtener la excelencia en nuestros programas y alojamientos, el desarrollo económico a partir del birding y, particularmente, las iniciativas y propuestas en el momento de post-pandemia que atravesamos. Por supuesto también la evaluación en temas como el efecto del cambio climático sobre la fenología y migración de las aves. <br><br>
-                              Pero además de la ciencia o, a través de ella, algunos de los más destacados comunicadores en aves de Europa nos acompañarán para darle otra visión, sorpresa o unas sonrisas a la ornitología. 
-                              
+                              Pero además de la ciencia o, a través de ella, algunos de los más destacados comunicadores en aves de Europa nos acompañarán para darle otra visión, sorpresa o unas sonrisas a la ornitología. <br><br>
+                              Son 48 invitados a lo largo de los seis días. Con un broche de oro en la última jornada donde llegamos al Birding 2.0, la economía y las estrategias de conservación que antes eran futuro y ahora son el presente más palpable, como el rewilding. <br><br>
+                              El domingo 19 nos conectaremos solo un rato. Es un día de descanso, pero también para celebrar. Ese día los coordinadores de campamentos ornitológicos en el Himalaya, el Manu del Perú, Tanzania o el Mediterráneo, un total de 15 en 11 países nos hablarán desde sus propuestas y podremos elegir uno, a donde podremos ir… invitados! Un obsequio para que nos podamos encontrar en 2021 tras esta cuarentena que nos ha frenado las alas.
                               
                                  
                             </p>
@@ -92,8 +134,7 @@
                         <div class="portfolio-thumb">
                             <p style="font-size: 2em;text-align: center !important;"></p>
                             <p style="font-size: 1.5em;text-align: justify;">
-                              Son 48 invitados a lo largo de los seis días. Con un broche de oro en la última jornada donde llegamos al Birding 2.0, la economía y las estrategias de conservación que antes eran futuro y ahora son el presente más palpable, como el rewilding. <br><br>
-                              El domingo 19 nos conectaremos solo un rato. Es un día de descanso, pero también para celebrar. Ese día los coordinadores de campamentos ornitológicos en el Himalaya, el Manu del Perú, Tanzania o el Mediterráneo, un total de 15 en 11 países nos hablarán desde sus propuestas y podremos elegir uno, a donde podremos ir… invitados! Un obsequio para que nos podamos encontrar en 2021 tras esta cuarentena que nos ha frenado las alas.
+                              
                               
                                 
                             </p> 
@@ -111,25 +152,7 @@
                             <img class="dots" src="views/images/core-img/logoMediterranean.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 2em;text-align: center !important;">Ya puedes ir eligiendo el tuyo:</p>
-                            <p style="font-size: 1.5em;text-align: justify;">
-                              •	Chocó (Colombia) <br>
-                              •	Delta del Ebro (Cataluña)<br>
-                              •	EB Moianès (Cataluña)<br>
-                              •	EO Oasicostiera (Italia)<br>
-                              •	Francia<br>
-                              •	Guatemala<br>
-                              •	Himalaya (India)<br>
-                              •	Manizales (Colombia)<br>
-                              •	Manu, Cusco (Perú)<br>
-                              •	Medellín (Colombia)<br>
-                              •	P.N. des Oiseaux (Senegal)<br>
-                              •	Pucallpa (Perú)<br>
-                              •	Quito (Ecuador)<br>
-                              •	Tanzania<br>
-                              •	Fusagasugá (Colombia)
-                                
-                            </p>
+                            
                         </div>
                         <!-- <div class="portfolio-meta">
                             <p class="portfolio-date">Sep 21 - 24, 2020</p>
@@ -296,7 +319,7 @@
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest miercoles 15</span>
-                  <h4 class="timeline-title"><span class="badge badge-light">8 / 10 AM</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4>
+                  <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertúlia Birdfairs emergentes (fórmulas de colaboración)</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
@@ -306,10 +329,10 @@
                     Melina Balderrama (Bolivia Birding Fest)<br>
                     Ruben Morales (Paraguay Birding Fest)<br> <br>
                     </p>
-                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">10 / 10:45</span> Sergi Sales: Cómo fomentar el turismo ornitológico según el interés del público objetivo</h4> <br>
-                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">10:45 / 11:30</span>Carles Barriocanal: 25 años estudiando la migración de primavera por el Mediterráneo occidental: ¿qué hemos aprendido?</h4> <br>
-                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">11:30 / 12:15</span> David Fernández: Asincronía fenológica en aves provocada por el cambio climático</h4> <br>
-                    <h4 class="timeline-title" style="font-size: 16px;><span class="badge badge-light">12:15 / 12:45</span> Ricard Gutiérrez: Las últimas de las Filipinas. Entendiendo las aves litorales y marinas y sus hábitats</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px"> <span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 5 / 5:45</span> Sergi Sales: Cómo fomentar el turismo ornitológico según el interés del público objetivo</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 5:45 / 6:30</span> Carles Barriocanal: 25 años estudiando la migración de primavera por el Mediterráneo occidental: ¿qué hemos aprendido?</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12:15 - Barcelona: 6:30 / 7:15</span> David Fernández: Asincronía fenológica en aves provocada por el cambio climático</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:15 / 12:45 - Barcelona: 7:15 / 7:45</span> Ricard Gutiérrez: Las últimas de las Filipinas. Entendiendo las aves litorales y marinas y sus hábitats</h4> <br>
                 </div>
               </div>
               <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-2.jpg')" data-year="Dia 2">
@@ -348,7 +371,7 @@
                         </a>
                       </div>
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest jueves 16</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">8:30 / 10 AM</span> Tertúlia Birdfairs y Desarrollo</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Birdfairs y Desarrollo</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Abel Julien. <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
@@ -356,12 +379,12 @@
                     Mike Lu (Asian Bird Fair)<br>
                     
                     </p>
-                    <h4 class="timeline-title"><span class="badge badge-light">10 / 10:45</span> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">10:45 / 11:30</span> Kevin Hackett: 7 edades y 7 aves (con disculpas a Shakespeare)</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">11:30 / 12:15</span> Pere Alzina i Bilbeny:  Como aprender a describir y dibujar el canto de las aves</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">12:15 / 12:45</span> Cristian Mur: Turismo de naturaleza en el Norte amazónico colombiano</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 17:00 / 17:45</span> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Kevin Hackett: 7 edades y 7 aves (con disculpas a Shakespeare)</h4> <br>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:30 / 12:15 - Barcelona: 18:30 / 19:15</span> Pere Alzina i Bilbeny:  Como aprender a describir y dibujar el canto de las aves</h4> <br>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:15 / 12:45 - Barcelona: 19:15 / 19:45</span> Cristian Mur: Turismo de naturaleza en el Norte amazónico colombiano</h4>
                      <br>
-                     <h4 class="timeline-title"><span class="badge badge-light">12:45 / 13:30</span> Oswaldo Cortés: La evolución del Birding en Colombia</h4>
+                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:45 / 13:30 - Barcelona: 19:45 / 20:30</span> Oswaldo Cortés: La evolución del Birding en Colombia</h4>
                   </div>
                   
                 
@@ -402,7 +425,7 @@
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Alojamientos y Birders viernes 17</span>
                     <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">8:30 / 10 AM</span> Tertúlia Alojamientos y Birders</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Alojamientos y Birders</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Xavier Amigó. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
@@ -413,14 +436,14 @@
                       Sebastián Cardona (Bosques de Termalia Ecohotel, Colombia) <br>
                       W. Ramiro Albuja (La Hojarasca Bird Lodge, Ecuador) <br>
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">10 / 10:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
-                      <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">10:45 / 11:30</span> Sofia Paricio: Desarrollo socioeconómico a partir de la Carta Europea de Turismo Sostenible
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:00 / 10:45 - Barcelona: 17:00 / 17:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
+                      <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Sofia Paricio: Desarrollo socioeconómico a partir de la Carta Europea de Turismo Sostenible
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">11:30 / 12</span> Nicole Henriod:  Birding Urbano
+                      <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12 - Barcelona: 18:30 / 19:00</span> Nicole Henriod:  Birding Urbano
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">12:00 / 12:30</span> Camilo A. Buitrago: Birding Urbano en Bogotá </h4>
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Camilo A. Buitrago: Birding Urbano en Bogotá </h4>
                        <br>
-                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">12:30 / 13:00</span> Rubén Morales: El espíritu de los Andes. Situación y proyectos de conservación del Cóndor Andino</h4>
+                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:30 / 13:00 - Barcelona: 19:30 / 20:00</span> Rubén Morales: El espíritu de los Andes. Situación y proyectos de conservación del Cóndor Andino</h4>
                 </div>
               </div>
               <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-4.jpg')" data-year="Dia 4">
@@ -456,7 +479,7 @@
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 18</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">8:30 / 10 AM</span> Tertúlia Birding y Educación Ambiental</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertúlia Birding y Educación Ambiental</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Sergi Sales. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Barreto /
@@ -465,15 +488,15 @@
                       Víctor González <br>
                       
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">10:00 / 10:20</span> Erika Barreto: Experiencia comunitaria de avistamiento de aves en Usme (Bogotá)</h4> <br>
-                      <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">10:20 / 10:40</span>Jhon Jiménez: Los Colores de la Educación Ambiental
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:00 / 10:20 - Barcelona: 17:00 / 17:20</span> Erika Barreto: Experiencia comunitaria de avistamiento de aves en Usme (Bogotá)</h4> <br>
+                      <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:20 / 10:40 - Barcelona: 17:20 / 17:40</span> <br> Jhon Jiménez: Los Colores de la Educación Ambiental
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">10:40 / 11:00</span> Joan Daranas: Escenas de Ornitología
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:40 / 11:00 - Barcelona: 17:40 / 18:00</span> <br> Joan Daranas: Escenas de Ornitología
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">11:00 / 11:20</span> Víctor González: Educación Ambiental, Birding y Comunidades nativas </h4>
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:00 / 11:20 - Barcelona: 18:00 / 18:20</span> Víctor González: Educación Ambiental, Birding y Comunidades nativas </h4>
                        <br>
-                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">11:20 / 12:10</span> Miriam Cotillas: Importancia de la Biodiversidad para el control de las pandemias</h4> <br>
-                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">12:10 / 12:20</span> Marilena Perbellini & Sandro Brina: Invitación al "Gemellaggio Ornitologico Italia - Amazzonia"</h4>
+                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:20 / 12:10 - Barcelona: 18:20 / 19:10</span> Miriam Cotillas: Importancia de la Biodiversidad para el control de las pandemias</h4> <br>
+                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:10 / 12:20 - Barcelona: 19:10 / 19:20</span> Marilena Perbellini & Sandro Brina: Invitación al "Gemellaggio Ornitologico Italia - Amazzonia"</h4>
                 </div>
               </div>
               <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-5.jpg')" data-year="Dia 5">
@@ -509,9 +532,9 @@
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 19</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">10:30 / 11:30 AM</span> Elige tu curso o campamento ornitológico gratuito</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">10:30 / 11:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
-                      <h4 class="timeline-title" ><span class="badge badge-light">10:30 / 11:30</span>Andrew Majembe: Ornithological Camp in Tanzania
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 AM - Barcelona: 17:30 / 18:30</span> Elige tu curso o campamento ornitológico gratuito</h4> <br>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
+                      <h4 class="timeline-title" ><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
                       </h4> <br>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Profesores</span>  <br> Manuel <br> 
                         Sandra <br>
@@ -554,7 +577,7 @@
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean birdingfest sabado 20</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">8:30 / 10:30 AM</span> Tertúlia Birding, Rewilding y Economía</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertúlia Birding, Rewilding y Economía</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Àlex de Juan. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Héctor Cardozo (Amazon Birding Fest) <br>
@@ -562,11 +585,11 @@
                       Marc Lacasa (Valor Natura) <br>
                       
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">10:30 / 11:15</span> Michel Estefan: Turismo para la Conservación</h4> <br>
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:15 - Barcelona: 17:30 / 18:15</span> <br> Michel Estefan: Turismo para la Conservación</h4> <br>
                       
-                      <h4 class="timeline-title"><span class="badge badge-light">11:15 / 12:00</span> Héctor Cardozo: Birding y Desarrollo endógeno
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:15 / 12:00 - Barcelona: 18:15 / 19:00</span> <br> Héctor Cardozo: Birding y Desarrollo endógeno
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">12:00 / 12:30</span> Guillem Chacon - MedBirdingFest 2021 de Italia a Catalunya </h4>
+                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Guillem Chacon - MedBirdingFest 2021 de Italia a Catalunya </h4>
                        <br>
                        
                 </div>

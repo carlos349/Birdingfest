@@ -1504,7 +1504,7 @@ img {
   position: absolute;
   text-align: center;
   width: 80%;
-  max-width: 450px;
+  max-width: 600px;
   right: 25%;
   top: 20%;
   -webkit-transform: translate(50%, 0);
@@ -1660,7 +1660,7 @@ img {
     top: 50%;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
-    width: 450px;
+    width: 600px;
     font-size: 11px;
     text-align: right;
   }
