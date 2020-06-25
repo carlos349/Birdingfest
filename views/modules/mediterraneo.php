@@ -89,7 +89,7 @@
             </div>
             <div class="container">
               <center>
-                <div style="width:50%" id="carouselExampleIntervale" class="carousel slide mb-5" data-ride="carousel">
+                <div  id="carouselExampleIntervale" class="carousel cMovil slide mb-5" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active" data-interval="10000">
                     <img src="views/images/core-img/elige.jpg" class="d-block w-100" alt="...">
@@ -205,11 +205,11 @@
             
         </div>
     </div>
-    <div id="invitados" class="container"><h1 style="font-size:4em;" class="text-center">Invitados</h1>
+    <div id="invitados" class="container mb-5"><h1 style="font-size:4em;" class="text-center">Invitados</h1>
       <center>
 
       
-      <div style="width:60%" id="carouselExampleIntervalr" class="carousel slide " data-ride="carousel">
+      <div  id="carouselExampleIntervalr" class="carousel cMovil slide " data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active" data-interval="1000">
             <img src="views/images/core-img/mod-1.jpg" class="d-block w-100" alt="...">
