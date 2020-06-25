@@ -16,7 +16,7 @@ class EnlacesModels{
 			$enlaces == "paraguay" ||
 			$enlaces == "ringing" ||
 			$enlaces == "stations" ||
-			$enlaces == "mail" ||
+			$enlaces == "send" ||
 			$enlaces == "paypal1" ||
 			$enlaces == "paypal2" ||
 			$enlaces == "paypal3" ||
