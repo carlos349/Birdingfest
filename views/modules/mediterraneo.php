@@ -1043,38 +1043,38 @@ function googleTranslateElementInit() {
        
         <h5>Puedes inscribirte directamente por paypal o tarjeta de credito / debito y luego contactandonos, o puedes usar este formulario para inscribirte por otros medios de pagos</h5>
 
-        <form action="#" method="post">
+        <form action="mail" method="post">
             <div class="row">
                 <div class="col-12 col-md-4">
                     <div class="form-group">
-                        <input type="text" class="form-control" id="contact-name" placeholder="Tu nombre">
+                        <input type="text" class="form-control" name="nombre" id="contact-name" placeholder="Tu nombre">
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="form-group">
-                        <input type="email" class="form-control" id="contact-email" placeholder="Tu apellido">
+                        <input type="text" class="form-control" name="apellido" id="contact-email" placeholder="Tu apellido">
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="form-group">
-                        <input type="text" class="form-control" id="contact-email" placeholder="Tu correo">
+                        <input type="email" class="form-control" name="correo" id="contact-email" placeholder="Tu correo">
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
                   <div class="form-group">
-                      <input type="text" class="form-control" id="contact-email" placeholder="Tu número">
+                      <input type="text" class="form-control" name="numero" id="contact-email" placeholder="Tu número">
                   </div>
               </div>
               <div class="col-12 col-md-4">
                 <div class="form-group">
-                    <input type="text" class="form-control" id="contact-email" placeholder="Tu país">
+                    <input type="text" class="form-control" name="pais" id="contact-email" placeholder="Tu país">
                 </div>
             </div>
             
             <div class="col-12 col-md-4">
               <div class="form-group">
                 <label for="cars">Elige tu opción</label>
-                <select class="form-control" id="cars">
+                <select name="opcion" class="form-control" id="cars">
                   <option value="volvo">Opción 1: Oenanthe hispanica</option>
                   <option value="saab">Opción 2: Pterocles alchata</option>
                   <option value="opel">Opción 3: Gypaetus barbatus</option>
@@ -1085,12 +1085,12 @@ function googleTranslateElementInit() {
           <div class="col-12 col-md-4">
             <label for="cars">Adjunta aqui tu comprobante de pago</label>
             <div class="form-group">
-                <input type="file" class="form-control" id="contact-email" placeholder="Adjunta aqui tu comprobante de pago">
+                <input type="file" class="form-control" id="contact-email" name="pago" placeholder="Adjunta aqui tu comprobante de pago">
             </div>
         </div>
                 <div class="col-12">
                     <div class="form-group">
-                        <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="(Escribe aqui los datos solicitados) &#10;&#10;Datos de inscripción:&#10; &#10; - Si elegiste la opción 1 indícanos que día o días quieres inscribirte. &#10; - Si elegiste la opción 2 o 3 indícanos en que país deseas realizar tu curso o campamento gratuito. &#10; Luego puedes escribir cualquier otro dato o comentario que desees "></textarea>
+                        <textarea class="form-control" name="mensaje" id="message" cols="30" rows="10" placeholder="(Escribe aqui los datos solicitados) &#10;&#10;Datos de inscripción:&#10; &#10; - Si elegiste la opción 1 indícanos que día o días quieres inscribirte. &#10; - Si elegiste la opción 2 o 3 indícanos en que país deseas realizar tu curso o campamento gratuito. &#10; Luego puedes escribir cualquier otro dato o comentario que desees "></textarea>
                     </div>
                 </div>
                 <div class="col-12">
