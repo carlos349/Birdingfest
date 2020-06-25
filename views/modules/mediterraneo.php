@@ -365,10 +365,17 @@
                         <img src="views/images/core-img/nicole.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="views/images/core-img/pos-1.jpg" class="d-block w-100" alt="...">
+                        <img src="views/images/core-img/camilo.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="views/images/core-img/camilo.jpg" class="d-block w-100" alt="...">
+                        <img src="views/images/core-img/pos-1.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/jose.jpg" class="d-block w-100" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="views/images/core-img/xavier.jpg" class="d-block w-100" alt="...">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleInterval3" role="button" data-slide="prev">
@@ -457,18 +464,18 @@
                 </div>
               </div>
               <div class="swiper-slide" style="background-image: url('views/images/bg-img/bg-5.jpg')" data-year="Dia 5">
-                <div style="width:35%" id="carouselExampleInterval4" class="carousel slide  ml-5" data-ride="carousel">
-                    <!-- <div class="carousel-inner">
+                <div style="width:35%" id="carouselExampleInterval5" class="carousel slide  ml-5" data-ride="carousel">
+                    <div class="carousel-inner">
                       <div class="carousel-item active" data-interval="500">
-                        <img src="views/images/core-img/4.1.jpg" class="d-block w-100" alt="...">
+                        <img src="views/images/core-img/5.1.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item" data-interval="2000">
-                        <img src="views/images/core-img/erika.jpg" class="d-block w-100" alt="...">
+                        <img src="views/images/core-img/mohamedine.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="views/images/core-img/joan.jpg" class="d-block w-100" alt="...">
+                        <img src="views/images/core-img/andrew.jpg" class="d-block w-100" alt="...">
                       </div>
-                      <div class="carousel-item">
+                      <!-- <div class="carousel-item">
                         <img src="views/images/core-img/jhon.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
@@ -476,14 +483,14 @@
                       </div>
                       <div class="carousel-item">
                         <img src="views/images/core-img/miriam.jpg" class="d-block w-100" alt="...">
-                      </div>
+                      </div> -->
                       
-                    </div> -->
-                    <a class="carousel-control-prev" href="#carouselExampleInterval4" role="button" data-slide="prev">
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleInterval5" role="button" data-slide="prev">
                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                       <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#carouselExampleInterval4" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="#carouselExampleInterval5" role="button" data-slide="next">
                       <span class="carousel-control-next-icon" aria-hidden="true"></span>
                       <span class="sr-only">Next</span>
                     </a>
@@ -493,9 +500,9 @@
                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
                       <h4 class="timeline-title" ><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
                       </h4> <br>
-                    <p class="timeline-text text-center"> <span style="font-size:20px">Profesores</span>  <br> Manuel <br> 
-                        Sandra <br>
-                        Guillem <br>
+                    <p class="timeline-text text-center"> <span style="font-size:20px">Expositores</span>  <br> Manuel Menéndez <br> 
+                        Sandra Díaz<br>
+                        Guillem Chacón <br>
                       </p>
                       
                       
@@ -537,7 +544,7 @@
                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Àlex de Juan. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
-                      Erika Héctor Cardozo (Amazon Birding Fest) <br>
+                      
                       Deli Saavedra (Rewilding Europe) <br>
                       Marc Lacasa (Valor Natura) <br>
                       
