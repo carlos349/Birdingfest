@@ -1043,7 +1043,7 @@ function googleTranslateElementInit() {
        
         <h5>Puedes inscribirte directamente por paypal o tarjeta de credito / debito y luego contactandonos, o puedes usar este formulario para inscribirte por otros medios de pagos</h5>
 
-        <form action="send" method="post">
+        <form action="send" method="post" enctype="multipart/form-data>
             <div class="row">
                 <div class="col-12 col-md-4">
                     <div class="form-group">
