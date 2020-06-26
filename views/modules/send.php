@@ -1,89 +1,60 @@
 <?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') { //solo ingreso a este bloque de código si el método con el que solicita la página es POST
 
-class Email {
-	
-	//nombre
-	var $nombre;
-	//email del emisor
-	var $correo;
-	var $opcion;
-	var $pais;
-	//email del receptor
-	var $apellido;
-	var $numero;
-	//mensaje
-	var $mensaje;
-	//archivo adjunto
-	var $pago;
+    $tiempoEspera = 3; //tiempo de espera para recargar la página (aplicado en la lógica de refresh)
 
-	
-	//enviar el mensaje
-	private $sender;
-	//url para redireccionar
-	private $url;
+    
 
-	//función constructora
-	public function __construct(){
-		//cada uno de ellos es el parámetro que enviamos desde el formulario
-		$this->nombre = $n;
-		$this->correo = $me;
-		$this->numero = $nm;
-		
-		$this->pais = $p;
-		$this->apellido = $a;
-		$this->mensaje = $ms;
-		$this->pago = $ad;
-	}
+    if (!isset($_FILES['pago']) || !isset($_FILES['pago']['tmp_name']) || strlen($_FILES['pago']['tmp_name']) < 3) { //validación básica del campo "archivo adjunto"
+        echo 'El archivo a ser enviado es requerido, la página será recargada en ' . $tiempoEspera . ' segundos.';
+        echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
+        exit();
+    }
 
-	//método enviar con los parámetros del formulario
-	public function enviar($n,$me,$nm,$p,$a,$ms,$ad){
-		$who = "cristiansleonardo@gmail.com"
-		$who2 = "cristiansleonardo@gmail.com"
-		//si existe post
-		if(isset($_POST)){
+    $origenNombre = 'PHPCentral.com'; //nombre que visualiza el receptor del email como "origen" del email (es quien envía el email)
+    $origenEmail = 'cristiansleonardo@gmail.com';//email que visualiza el receptor del email como "origen" del email (es quien envía el email)
+    $destinatarioEmail = 'cristiansleonardo@gmail.com'; //destinatario del email, o sea, a quien le estamos enviando el email
+    $archivoNombre = $_FILES['pago']['name']; //nombre del archivo a ser enviado (sin la ruta, solo el nombre con la extensión, por ejemplo: imagen.jpg)
+    $archivo = $_FILES['pago']['tmp_name']; //ruta temporal del archivo a ser adjuntado (ubicación fisica del archivo subido en el servidor)
+    $archivo = file_get_contents($archivo); //leeo del origen temporal el archivo y lo guardo como un string en la misma variable (piso la variable $archivo que antes contenía la ruta con el string del archivo)
+    $archivo = chunk_split(base64_encode($archivo)); //codifico el string leido del archivo en base64 y la fragmento segun RFC 2045
+    $uid = md5(uniqid(time())); //frabrico un ID único que usaré para el "boundary"
+    
+    $asuntoEmail = 'Archivo adjunto'; //asunto del email
+    
+    //cuerpo del email:
+    $cuerpoMensaje = "Este es el cuerpo del email\r\n";
+    $cuerpoMensaje .= "Esta es la segunda línea del cuerpod\r\n";
+    $cuerpoMensaje .= "Tercera línea\r\n";
+    $cuerpoMensaje .= "Etc...\r\n";
+    //fin cuerpo del email.
+    
+    //cabecera del email (forma correcta de codificarla)
+    $header = "From: " . $origenNombre . " <" . $origenEmail . ">\r\n";
+    $header .= "Reply-To: " . $origenEmail . "\r\n";
+    $header .= "MIME-Version: 1.0\r\n";
+    $header .= "Content-Type: multipart/mixed; boundary=\"" . $uid . "\"\r\n\r\n";
 
-			//si existe adjunto
-			if($ad) {
-				//añadimos texto al nombre original del archivo
-				$dir_subida = 'fichero_';
-				//nombre del fichero creado -> fichero_nombreArchivo.pdf
-				$fichero_ok = $dir_subida . basename($ad);
-				//y lo subimos a la misma carpeta
-				move_uploaded_file($_FILES['adjunto']['tmp_name'], $fichero_ok);
-			}
-			//creamos el mensaje
-			$contenido = '
-				<h2>Nuevo mensaje de: '.$n.'</h2>
-				<hr>
-				Email: <b>'.$m.'</b><br>
-				Mensaje: <br><b>'.$ms.'</b><br>
-			';
-			//archivo necesario para enviar los archivos adjuntos
-			require_once 'AttachMailer.php';
+    //armado del mensaje y attachment
+    $mensaje = "--" . $uid . "\r\n";
+    $mensaje .= "Content-type:text/plain; charset=utf-8\r\n";
+    $mensaje .= "Content-Transfer-Encoding: 7bit\r\n\r\n";
+    $mensaje .= $cuerpoMensaje . "\r\n\r\n";
+    $mensaje .= "--" . $uid . "\r\n";
+    $mensaje .= "Content-Type: application/octet-stream; name=\"" . $archivoNombre . "\"\r\n";
+    $mensaje .= "Content-Transfer-Encoding: base64\r\n";
+    $mensaje .= "Content-Disposition: attachment; filename=\"" . $archivoNombre . "\"\r\n\r\n";
+    $mensaje .= $archivo . "\r\n\r\n";
+    $mensaje .= "--" . $uid . "--";
 
-			//enviamos el mensaje           (emisor,receptor,asunto,mensaje)
-			$this->sender = new AttachMailer($who2, $who, $a, $contenido);
-			$this->sender->attachFile($fichero_ok);
-			//eliminamos el fichero de la carpeta con unlink()
-			//si queremos que se guarde en nuestra carpeta, lo comentamos o borramos
-			unlink($fichero_ok);
-			//enviamos el email con el archivo adjunto
-			$this->sender->send();
-			//url para redireccionar
-			$this->url = 'http://www.webcamp.es/email';
-			//redireccionamos a la misma url conforme se ha enviado correctamente con la variable si
-			header('Location:'.$this->url.'?s=si');
-		}
-		else{
-			//redireccionamos a la misma url conforme NO se ha enviado correctamente con la variable no
-			header('Location:'.$this->url.'?s=no');
-		}
-	}
+    //envio el email y verifico la respuesta de la función "email" (true o false)
+    if (mail($destinatarioEmail, $asuntoEmail, $mensaje, $header)) {
+        echo 'El archivo fue enviado correctamente';
+    } else {
+        echo 'Error, no se pudo enviar el email';
+    }
+    echo ', la página será recargada en ' . $tiempoEspera . ' segundos.';
+    echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
+    exit();
 }
-
-//llamamos a la clase
-$obj = new Email();
-//ejecutamos el método enviar con los parámetros que recibimos del formulario
-$obj->enviar($_POST['nombre'], $_POST['correo'], $_POST['numero'], $_POST['pais'], $_POST['mensaje'],$_POST['apellido'], $_FILES['pago']['name']);
-
 ?>
