@@ -5,11 +5,6 @@
 
     
 
-    if (!isset($_FILES['pago']) || !isset($_FILES['pago']['tmp_name']) || strlen($_FILES['pago']['tmp_name']) < 3) { //validación básica del campo "archivo adjunto"
-        echo 'El archivo a ser enviado es requerido, la página será recargada en ' . $tiempoEspera . ' segundos.';
-        echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
-        exit();
-    }
 
     $origenNombre = 'PHPCentral.com'; //nombre que visualiza el receptor del email como "origen" del email (es quien envía el email)
     $origenEmail = 'cristiansleonardo@gmail.com';//email que visualiza el receptor del email como "origen" del email (es quien envía el email)

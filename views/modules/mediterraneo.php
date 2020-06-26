@@ -1043,7 +1043,7 @@ function googleTranslateElementInit() {
        
         <h5>Puedes inscribirte directamente por paypal o tarjeta de credito / debito y luego contactandonos, o puedes usar este formulario para inscribirte por otros medios de pagos</h5>
 
-        <form action="send" method="post" enctype="multipart/form-data>
+        <form action="send" method="post" enctype="multipart/form-data">
             <div class="row">
                 <div class="col-12 col-md-4">
                     <div class="form-group">
@@ -1085,7 +1085,7 @@ function googleTranslateElementInit() {
           <div class="col-12 col-md-4">
             <label for="cars">Adjunta aqui tu comprobante de pago</label>
             <div class="form-group">
-                <input type="file" class="form-control" id="contact-email" name="pago" placeholder="Adjunta aqui tu comprobante de pago">
+                <input type="file" class="form-control"  name="pago" placeholder="Adjunta aqui tu comprobante de pago">
             </div>
         </div>
                 <div class="col-12">
