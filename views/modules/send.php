@@ -55,5 +55,5 @@
     echo ', la página será recargada en ' . $tiempoEspera . ' segundos.';
     echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
     exit();
-}
+
 ?>
