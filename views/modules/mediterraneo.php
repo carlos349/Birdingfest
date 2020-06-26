@@ -1075,9 +1075,9 @@ function googleTranslateElementInit() {
               <div class="form-group">
                 <label for="cars">Elige tu opción</label>
                 <select name="opcion" class="form-control" id="cars">
-                  <option value="volvo">Opción 1: Oenanthe hispanica</option>
-                  <option value="saab">Opción 2: Pterocles alchata</option>
-                  <option value="opel">Opción 3: Gypaetus barbatus</option>
+                  <option value="Opción 1: Oenanthe hispanica">Opción 1: Oenanthe hispanica</option>
+                  <option value="Opción 2: Pterocles alchata">Opción 2: Pterocles alchata</option>
+                  <option value="Opción 3: Gypaetus barbatus">Opción 3: Gypaetus barbatus</option>
                   
                 </select>
               </div>

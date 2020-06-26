@@ -10,8 +10,8 @@
 
 
     $origenNombre = 'Birding inscripción'; //nombre que visualiza el receptor del email como "origen" del email (es quien envía el email)
-    $origenEmail = 'cristiansleonardo@gmail.com';//email que visualiza el receptor del email como "origen" del email (es quien envía el email)
-    $destinatarioEmail = "cristiansleonardo@gmail.com"; //destinatario del email, o sea, a quien le estamos enviando el email
+    $origenEmail = 'mediterraneo@birdingfest.net';//email que visualiza el receptor del email como "origen" del email (es quien envía el email)
+    $destinatarioEmail = "mediterraneo@birdingfest.net"; //destinatario del email, o sea, a quien le estamos enviando el email
     $archivoNombre = $_FILES['pago']['name']; //nombre del archivo a ser enviado (sin la ruta, solo el nombre con la extensión, por ejemplo: imagen.jpg)
     $archivo = $_FILES['pago']['tmp_name']; //ruta temporal del archivo a ser adjuntado (ubicación fisica del archivo subido en el servidor)
     $archivo = file_get_contents($archivo); //leeo del origen temporal el archivo y lo guardo como un string en la misma variable (piso la variable $archivo que antes contenía la ruta con el string del archivo)
@@ -27,7 +27,7 @@
 	$cuerpoMensaje .= "Numero:".$numero."\r\n";
 	$cuerpoMensaje .= "País:".$pais."\r\n";
 	$cuerpoMensaje .= "Opción:".$opcion."\r\n";
-	$cuerpoMensaje .= "Mensaje:".$mensaje."\r\n";
+	$cuerpoMensaje .= "Mensaje:\r\n".$mensaje."\r\n";
     //fin cuerpo del email.
     
     //cabecera del email (forma correcta de codificarla)
