@@ -66,15 +66,15 @@ function googleTranslateElementInit() {
                           </center>
                           
                         </div>
-                        <h2>
-                          15 a 20 de julio de 2020 <br> <img style="width: 60px;" src="views/images/pdf.png" alt=""> <a style="font-size: 50px;" download="Mediterranean Birding Fest Round Round" href="views/images/Mediterranean-BirdingFest-Round.pdf">Descargar PDF</a> <br> <br>
-                          </h2>
+                        <h3 class="text-center">
+                          15 a 20 de julio de 2020 <br> <img style="width: 60px;" src="views/images/pdf.png" alt=""> <a style="font-size: 20px;color: black;" download="Mediterranean Birding Fest Round Round" href="views/images/Mediterranean-BirdingFest-Round.pdf">Descargar PDF</a> <br> <br>
+                          </h3>
                     </div>
                 </div>
             </div>
             <div class="container">
               <p style="font-size: 1.5em;text-align: center !important;">Iniciamos nuestra edición online del Mediterranean Birding Fest Round con cinco grandes temas para tratar:</p>
-                            <p style="font-size: 1em;text-align: center;"> <br>
+                            <p style="font-size: 2em;text-align: center;"> <br>
                               •	Birdfairs emergentes (fórmulas de colaboración) <br>
                               •	Birdfairs y Desarrollo <br>
                               •	Alojamientos y Birders<br>
@@ -195,7 +195,7 @@ function googleTranslateElementInit() {
               
             </div>
 
-            <p style="text-align: center;font-size: 20px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 20px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirdingfest</a> </p>
+            <p style="text-align: center;font-size: 20px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 20px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirding</a> </p>
             <div class="row">
                 <!-- Single Portfoio Area -->
                 
@@ -209,110 +209,146 @@ function googleTranslateElementInit() {
         <div class="row">
 
           <div class="col-sm-3">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/mod-1.jpg">
            <img src="views/images/core-img/mod-1.jpg" class="img-thumbnail" alt="...">
+          </a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/elaise.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/elaise.jpg">
+            <img src="views/images/core-img/elaise.jpg" class="img-thumbnail" alt="..."></a>
         
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/flavia.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/flavia.jpg">
+            <img src="views/images/core-img/flavia.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/leonardo.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/leonardo.jpg">
+            <img src="views/images/core-img/leonardo.jpg" class="img-thumbnail" alt="..."></a>
          </div>  <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/manuel.jpg">
+        
+            <img src="views/images/core-img/manuel.jpg" class="img-thumbnail" alt="..."> </a>
+         </div> 
+          <div class="col-sm-3">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/melina.jpg">
+            <img src="views/images/core-img/melina.jpg" class="img-thumbnail" alt="..."></a>
+          
+      </div>    <div class="col-sm-3">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/con-1.jpg">
          
-            <img src="views/images/core-img/manuel.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/con-1.jpg" class="img-thumbnail" alt="..."> </a>
+         </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/con-2.jpg">
+          
+            <img src="views/images/core-img/con-2.jpg" class="img-thumbnail" alt="..."></a>
+         </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/con-3.jpg">
+          
+            <img src="views/images/core-img/con-3.jpg" class="img-thumbnail" alt="..."></a>
+         </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/con-4.jpg">
+         
+            <img src="views/images/core-img/con-4.jpg" class="img-thumbnail" alt="..."> </a>
          </div> 
           <div class="col-sm-3">
-            <img src="views/images/core-img/melina.jpg" class="img-thumbnail" alt="...">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/beltran.jpg">
+            <img src="views/images/core-img/beltran.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-          
-            <img src="views/images/core-img/con-1.jpg" class="img-thumbnail" alt="...">
-         </div> <div class="col-sm-3">
-          
-            <img src="views/images/core-img/con-2.jpg" class="img-thumbnail" alt="...">
-         </div> <div class="col-sm-3">
-          
-            <img src="views/images/core-img/con-3.jpg" class="img-thumbnail" alt="...">
-         </div> <div class="col-sm-3">
-          
-            <img src="views/images/core-img/con-4.jpg" class="img-thumbnail" alt="...">
-         </div> 
-          <div class="col-sm-3">
-            <img src="views/images/core-img/beltran.jpg" class="img-thumbnail" alt="...">
-          
-      </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/hector.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/hector.jpg">
+            <img src="views/images/core-img/hector.jpg" class="img-thumbnail" alt="..."></a>
         </div>   <div class="col-sm-3">
-         
-            <img src="views/images/core-img/abel.jpg" class="img-thumbnail" alt="...">
+          <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/abel.jpg">
+        
+            <img src="views/images/core-img/abel.jpg" class="img-thumbnail" alt="..."> </a>
          </div> 
           <div class="col-sm-3">
-            <img src="views/images/core-img/kevin.jpg" class="img-thumbnail" alt="...">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/kevin.jpg">
+            <img src="views/images/core-img/kevin.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/pere.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/pere.jpg">
+            <img src="views/images/core-img/pere.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/cristian.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/cristian.jpg">
+            <img src="views/images/core-img/cristian.jpg" class="img-thumbnail" alt="..."></a>
         </div>   <div class="col-sm-3">
+          <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/oswaldojpg">
          
-            <img src="views/images/core-img/oswaldo.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/oswaldo.jpg" class="img-thumbnail" alt="..."></a>
          </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/xavier.jpg">
           
-            <img src="views/images/core-img/xavier.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/xavier.jpg" class="img-thumbnail" alt="..."></a>
          </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/jose.jpg">
           
-            <img src="views/images/core-img/jose.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/jose.jpg" class="img-thumbnail" alt="..."></a>
          </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/mireia.jpg">
           
-            <img src="views/images/core-img/mireia.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/mireia.jpg" class="img-thumbnail" alt="..."></a>
          </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/jorge.jpg">
           
-            <img src="views/images/core-img/jorge.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/jorge.jpg" class="img-thumbnail" alt="..."></a>
          </div> <div class="col-sm-3">
-          
-            <img src="views/images/core-img/sofia.jpg" class="img-thumbnail" alt="...">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/sofia.jpg">
+       
+            <img src="views/images/core-img/sofia.jpg" class="img-thumbnail" alt="...">   </a>
          </div> <div class="col-sm-3">
-          
-            <img src="views/images/core-img/nicole.jpg" class="img-thumbnail" alt="...">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/nicole.jpg">
+         
+            <img src="views/images/core-img/nicole.jpg" class="img-thumbnail" alt="..."> </a>
          </div> <div class="col-sm-3">
+           <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/camila.jpg">
           
-            <img src="views/images/core-img/camilo.jpg" class="img-thumbnail" alt="...">
+            <img src="views/images/core-img/camilo.jpg" class="img-thumbnail" alt="..."></a>
          </div> 
           <div class="col-sm-3">
-            <img src="views/images/core-img/erika.jpg" class="img-thumbnail" alt="...">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/erika.jpg">
+            <img src="views/images/core-img/erika.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/jhon.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/jhon.jpg">
+            <img src="views/images/core-img/jhon.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/joan.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/joan.jpg">
+            <img src="views/images/core-img/joan.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/victor.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/victor.jpg">
+            <img src="views/images/core-img/victor.jpg" class="img-thumbnail" alt="..."></a>
         </div>  <div class="col-sm-3">
-          
-            <img src="views/images/core-img/miriam.jpg" class="img-thumbnail" alt="...">
+          <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/miriam.jpg">
+       
+            <img src="views/images/core-img/miriam.jpg" class="img-thumbnail" alt="...">   </a>
          </div> 
           <div class="col-sm-3">
-            <img src="views/images/core-img/mohamedine.jpg" class="img-thumbnail" alt="...">
+            <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/mohamedine.jpg">
+            <img src="views/images/core-img/mohamedine.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/andrew.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/andrew.jpg">
+            <img src="views/images/core-img/andrew.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/alex.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/alex.jpg">
+            <img src="views/images/core-img/alex.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/deli.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/deli.jpg">
+            <img src="views/images/core-img/deli.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/marc.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/marc.jpg">
+            <img src="views/images/core-img/marc.jpg" class="img-thumbnail" alt="..."></a>
           
       </div>    <div class="col-sm-3">
-            <img src="views/images/core-img/michel.jpg" class="img-thumbnail" alt="...">
+        <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/michel.jpg">
+            <img src="views/images/core-img/michel.jpg" class="img-thumbnail" alt="..."></a>
           
 </div>
       
@@ -438,7 +474,7 @@ function googleTranslateElementInit() {
             Mike Lu (Asian Bird Fair)<br>
             
             </p>
-            <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 17:00 / 17:45</span> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
+            <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 17:00 / 17:45</span> <br> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
             <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Kevin Hackett: 7 edades y 7 aves (con disculpas a Shakespeare)</h4> <br>
             <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12:15 - Barcelona: 18:30 / 19:15</span> Pere Alzina i Bilbeny:  Como aprender a describir y dibujar el canto de las aves</h4> <br>
             <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:15 / 12:45 - Barcelona: 19:15 / 19:45</span> Cristian Mur: Turismo de naturaleza en el Norte amazónico colombiano</h4>
@@ -640,7 +676,7 @@ function googleTranslateElementInit() {
       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
       <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Àlex de Juan.</span> </span> <br> 
         <span >Ponentes</span> <br>
-        
+        Héctor Cardozo (Amazon Birding Fest) <br>
         Deli Saavedra (Rewilding Europe) <br>
         Marc Lacasa (Valor Natura) <br>
         
@@ -660,7 +696,7 @@ function googleTranslateElementInit() {
       
     </div>
     <div id="programaPc" class="containerTime">
-      <h1 style="font-size:4em;" class="text-center">Programas</h1>
+      <h1 style="font-size:4em;" class="text-center">Programa</h1>
         <div class="timeline">
           <div class="swiper-container">
             <div class="swiper-wrapper">
@@ -715,7 +751,7 @@ function googleTranslateElementInit() {
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round miércoles 15</span>
-                  <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
+                  <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
                     <span >Ponentes</span> <br>
                     Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
@@ -770,7 +806,7 @@ function googleTranslateElementInit() {
                         </a>
                       </div>
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round jueves 16</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
+                    <h4 class="timeline-title"><span class="badge badge-light" style="font-size: 16px">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Abel Julien. <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
@@ -778,12 +814,12 @@ function googleTranslateElementInit() {
                     Mike Lu (Asian Bird Fair)<br>
                     
                     </p>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 17:00 / 17:45</span> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Kevin Hackett: 7 edades y 7 aves (con disculpas a Shakespeare)</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:30 / 12:15 - Barcelona: 18:30 / 19:15</span> Pere Alzina i Bilbeny:  Como aprender a describir y dibujar el canto de las aves</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:15 / 12:45 - Barcelona: 19:15 / 19:45</span> Cristian Mur: Turismo de naturaleza en el Norte amazónico colombiano</h4>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10 / 10:45 - Barcelona: 17:00 / 17:45</span> Abel Julien: Consejos y trucos para enseñar Ornitología en el s. XXI</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Kevin Hackett: 7 edades y 7 aves (con disculpas a Shakespeare)</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 11:30 / 12:15 - Barcelona: 18:30 / 19:15</span> Pere Alzina i Bilbeny:  Como aprender a describir y dibujar el canto de las aves</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 12:15 / 12:45 - Barcelona: 19:15 / 19:45</span> Cristian Mur: Turismo de naturaleza en el Norte amazónico colombiano</h4>
                      <br>
-                     <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:45 / 13:30 - Barcelona: 19:45 / 20:30</span> Oswaldo Cortés: La evolución del Birding en Colombia</h4>
+                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 12:45 / 13:30 - Barcelona: 19:45 / 20:30</span> Oswaldo Cortés: La evolución del Birding en Colombia</h4>
                   </div>
                   
                 
@@ -831,7 +867,7 @@ function googleTranslateElementInit() {
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Alojamientos y Birders viernes 17</span>
                     <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Xavier Amigó. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
@@ -842,12 +878,12 @@ function googleTranslateElementInit() {
                       Sebastián Cardona (Bosques de Termalia Ecohotel, Colombia) <br>
                       W. Ramiro Albuja (La Hojarasca Bird Lodge, Ecuador) <br>
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:00 / 10:45 - Barcelona: 17:00 / 17:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
+                      <h4 class="timeline-title"style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:00 / 10:45 - Barcelona: 17:00 / 17:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Sofia Paricio: Desarrollo socioeconómico a partir de la Carta Europea de Turismo Sostenible
                       </h4> <br>
                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12 - Barcelona: 18:30 / 19:00</span> Nicole Henriod:  Birding Urbano
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Camilo A. Buitrago: Birding Urbano en Bogotá </h4>
+                      <h4 class="timeline-title"style="font-size: 16px"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Camilo A. Buitrago: Birding Urbano en Bogotá </h4>
                        <br>
                        <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:30 / 13:00 - Barcelona: 19:30 / 20:00</span> Rubén Morales: El espíritu de los Andes. Situación y proyectos de conservación del Cóndor Andino</h4>
                 </div>
@@ -885,7 +921,7 @@ function googleTranslateElementInit() {
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round sábado 18</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Sergi Sales. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Barreto /
@@ -894,12 +930,12 @@ function googleTranslateElementInit() {
                       Víctor González <br>
                       
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:00 / 10:20 - Barcelona: 17:00 / 17:20</span> Erika Barreto: Experiencia comunitaria de avistamiento de aves en Usme (Bogotá)</h4> <br>
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:00 / 10:20 - Barcelona: 17:00 / 17:20</span> Erika Barreto: Experiencia comunitaria de avistamiento de aves en Usme (Bogotá)</h4> <br>
                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:20 / 10:40 - Barcelona: 17:20 / 17:40</span> <br> Jhon Jiménez: Los Colores de la Educación Ambiental
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:40 / 11:00 - Barcelona: 17:40 / 18:00</span> <br> Joan Daranas: Escenas de Ornitología
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:40 / 11:00 - Barcelona: 17:40 / 18:00</span> <br> Joan Daranas: Escenas de Ornitología
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:00 / 11:20 - Barcelona: 18:00 / 18:20</span> Víctor González: Educación Ambiental, Birding y Comunidades nativas </h4>
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 11:00 / 11:20 - Barcelona: 18:00 / 18:20</span> Víctor González: Educación Ambiental, Birding y Comunidades nativas </h4>
                        <br>
                        <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:20 / 12:10 - Barcelona: 18:20 / 19:10</span> Miriam Cotillas: Importancia de la Biodiversidad para el control de las pandemias</h4> <br>
                        <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 12:10 / 12:20 - Barcelona: 19:10 / 19:20</span> Marilena Perbellini & Sandro Brina: Invitación al "Gemellaggio Ornitologico Italia - Amazzonia"</h4>
@@ -938,9 +974,9 @@ function googleTranslateElementInit() {
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round domingo 19</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 AM - Barcelona: 17:30 / 18:30</span> Elige tu curso o campamento ornitológico gratuito</h4> <br>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
-                      <h4 class="timeline-title" ><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:30 AM - Barcelona: 17:30 / 18:30</span> Elige tu curso o campamento ornitológico gratuito</h4> <br>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
+                      <h4 class="timeline-title"  style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
                       </h4> <br>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Expositores</span>  <br> Manuel Menéndez <br> 
                         Sandra Díaz<br>
@@ -983,19 +1019,19 @@ function googleTranslateElementInit() {
                     </a>
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round lunes 20</span>
-                    <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
                     <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Àlex de Juan. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
-                      
+                      Héctor Cardozo (Amazon Birding Fest) <br>
                       Deli Saavedra (Rewilding Europe) <br>
                       Marc Lacasa (Valor Natura) <br>
                       
                       </p>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 10:30 / 11:15 - Barcelona: 17:30 / 18:15</span> <br> Michel Estefan: Turismo para la Conservación</h4> <br>
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:15 - Barcelona: 17:30 / 18:15</span> <br> Michel Estefan: Turismo para la Conservación</h4> <br>
                       
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 11:15 / 12:00 - Barcelona: 18:15 / 19:00</span> <br> Héctor Cardozo: Birding y Desarrollo endógeno
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 11:15 / 12:00 - Barcelona: 18:15 / 19:00</span> <br> Héctor Cardozo: Birding y Desarrollo endógeno
                       </h4> <br>
-                      <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Guillem Chacon - MedBirdingFest 2021 de Italia a Catalunya </h4>
+                      <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 12:00 / 12:30 - Barcelona: 19:00 / 19:30</span> <br> Guillem Chacon - MedBirdingFest 2021 de Italia a Catalunya </h4>
                        <br>
                        
                 </div>
@@ -1062,7 +1098,7 @@ function googleTranslateElementInit() {
                 </div>
                 <div class="col-12 col-md-4">
                   <div class="form-group">
-                      <input type="text" class="form-control" name="numero" id="contact-email" placeholder="Tu número">
+                      <input type="text" class="form-control" name="numero" id="contact-email" placeholder="Tu número de whatsapp">
                   </div>
               </div>
               <div class="col-12 col-md-4">
