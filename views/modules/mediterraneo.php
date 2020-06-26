@@ -806,7 +806,7 @@ function googleTranslateElementInit() {
                         </a>
                       </div>
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round jueves 16</span>
-                    <h4 class="timeline-title"><span class="badge badge-light" style="font-size: 16px">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
+                    <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Abel Julien. <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
