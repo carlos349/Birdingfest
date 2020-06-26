@@ -378,8 +378,8 @@ function googleTranslateElementInit() {
         </div>
       <div class="swiper-slide-content">
         <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
-        <p class="timeline-text text-center"> <span style="font-size:20px">Moderador  <br> <span style="font-weight: 700;">Francesc Kirchner (Delta Birding Fest).</span> </span> <br> 
-          <span style="font-size:20px">Ponentes</span> <br>
+        <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Francesc Kirchner (Delta Birding Fest).</span> </span> <br> 
+          <span >Ponentes</span> <br>
           Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
           Flavia Cozzarelli (Panamá Bird Festival) <br>
           Leonardo Gonzáles (Manu Birding Fest)<br>
@@ -431,8 +431,8 @@ function googleTranslateElementInit() {
               </div>
           <div class="swiper-slide-content">
             <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
-          <p class="timeline-text text-center"> <span style="font-size:20px">Moderador  <br> <span style="font-weight: 700;">Abel Julien.</span> </span> <br> 
-            <span style="font-size:20px">Ponentes</span> <br>
+          <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Abel Julien.</span> </span> <br> 
+            <span >Ponentes</span> <br>
             Beltrán de Ceballos (Doñana Birdfair) <br>
             Héctor Cardozo (Amazon Birding Fest) <br>
             Mike Lu (Asian Bird Fair)<br>
@@ -489,8 +489,8 @@ function googleTranslateElementInit() {
         <div class="swiper-slide-content">
             <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
             <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
-            <p class="timeline-text text-center"> <span style="font-size:20px">Moderador  <br> <span style="font-weight: 700;">Xavier Amigó.</span> </span> <br> 
-              <span style="font-size:20px">Ponentes</span> <br>
+            <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Xavier Amigó.</span> </span> <br> 
+              <span >Ponentes</span> <br>
               Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
               Jorge Bazante (Verde y Agua, Colombia) <br>
               José F. Molina (Cacique Candela, Colombia)<br>
@@ -542,8 +542,8 @@ function googleTranslateElementInit() {
         </div>
       <div class="swiper-slide-content">
           <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
-          <p class="timeline-text text-center"> <span style="font-size:20px">Moderador  <br> <span style="font-weight: 700;">Sergi Sales.</span> </span> <br> 
-            <span style="font-size:20px">Ponentes</span> <br>
+          <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Sergi Sales.</span> </span> <br> 
+            <span >Ponentes</span> <br>
             Erika Barreto /
             Jhon Jiménez <br>
             Joan Daranas /
@@ -597,7 +597,7 @@ function googleTranslateElementInit() {
         <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
           <h4 class="timeline-title" style="font-size: 16px;" ><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
           </h4> <br>
-        <p class="timeline-text text-center"> <span style="font-size:20px">Expositores <br> <span style="font-weight: 700;">Manuel Menéndez <br> 
+        <p class="timeline-text text-center"> Expositore<span style="font-size:20px"></span>s <br> <span style="font-weight: 700;">Manuel Menéndez <br> 
             Sandra Díaz<br>
             Guillem Chacón <br></span> </span> 
           </p>
@@ -638,8 +638,8 @@ function googleTranslateElementInit() {
     </div>
   <div class="swiper-slide-content">
       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
-      <p class="timeline-text text-center"> <span style="font-size:20px">Moderador  <br> <span style="font-weight: 700;">Àlex de Juan.</span> </span> <br> 
-        <span style="font-size:20px">Ponentes</span> <br>
+      <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Àlex de Juan.</span> </span> <br> 
+        <span >Ponentes</span> <br>
         
         Deli Saavedra (Rewilding Europe) <br>
         Marc Lacasa (Valor Natura) <br>
@@ -717,7 +717,7 @@ function googleTranslateElementInit() {
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round miércoles 15</span>
                   <h4 class="timeline-title"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
                   <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
-                    <span style="font-size:20px">Ponentes</span> <br>
+                    <span >Ponentes</span> <br>
                     Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
                     Flavia Cozzarelli (Panamá Bird Festival) <br>
                     Leonardo Gonzáles (Manu Birding Fest)<br>
