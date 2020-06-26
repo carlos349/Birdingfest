@@ -1,5 +1,5 @@
 <?php
-if ($_SERVER['REQUEST_METHOD'] === 'POST') { //solo ingreso a este bloque de código si el método con el que solicita la página es POST
+ //solo ingreso a este bloque de código si el método con el que solicita la página es POST
 
     $tiempoEspera = 3; //tiempo de espera para recargar la página (aplicado en la lógica de refresh)
 
@@ -56,5 +56,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') { //solo ingreso a este bloque de có
     echo ', la página será recargada en ' . $tiempoEspera . ' segundos.';
     echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
     exit();
-}
+
 ?>
