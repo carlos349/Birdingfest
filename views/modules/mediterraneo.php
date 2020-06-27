@@ -1,8 +1,15 @@
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mediterranean Birding Fest Round</title>
 <meta name="description" content="Ornithology & Birding School">
 </head>
+</html>
+
+
 
 <body>
     <!-- Preloader Start -->
