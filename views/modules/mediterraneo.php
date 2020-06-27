@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mediterrane<span>o</span>an Birding Fest Round</title>
+  <title>Mediterraneoan Birding Fest Round</title>
 <meta name="description" content="Ornithology & Birding School">
 </head>
 </html>
