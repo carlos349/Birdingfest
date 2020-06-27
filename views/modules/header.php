@@ -28,7 +28,7 @@
                         <a class="nav-link" href="mediterraneo">Mediterraneo</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="presencial">Presencial 2021</a>
+                        <a class="nav-link" href="presencial">Mediterraneo 2021</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="afrique">Afrique</a>

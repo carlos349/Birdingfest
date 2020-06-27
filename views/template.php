@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Birding Fest</title>
+<title> <?php if ($_GET["action"] == "mediterraneo") {
+  echo "Mediterranean Birding Fest Round";
+} else {echo "Birding Fest - ". ucwords($_GET["action"]);}?> </title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+<meta name="description" content="Ornithology & Birding School">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="views/styles/style.css">
 <link rel="stylesheet" type="text/css" href="views/styles/util.css">
