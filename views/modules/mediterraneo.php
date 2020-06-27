@@ -1,3 +1,5 @@
+
+<meta name="description" content="Mediterranean Birding Fest Round">
 <body>
     <!-- Preloader Start -->
     <div id="preloader">
@@ -25,7 +27,7 @@ function googleTranslateElementInit() {
 	new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'ca,en,fr,it,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true}, 'google_translate_element');
         }
 </script></center>
-    <div class="portfolio-area section-padding-100">
+    <div class="portfolio-area">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -79,96 +81,57 @@ function googleTranslateElementInit() {
                               •	Birdfairs y Desarrollo <br>
                               •	Alojamientos y Birders<br>
                               •	Birding y Educación Ambiental <br>
-                              •	Birding 2.0:Rewilding y Economía<br>
-                              <br><br><br>
+                              •	Birding 2.0: Rewilding y Economía<br>
+                              
                             </p>
             </div>
 
-            <div class="container">
+            <div class="container mb-5">
               <div class="row">
-                <div class="col-sm-12"><p style="font-size: 1em;text-align: justify;">Un elenco de grandes expertos de cada temática participaran en ellas. Se suman 24 conferencias que abordarán temas fundamentales para obtener la excelencia en nuestros programas y alojamientos, el desarrollo económico a partir del birding y, particularmente, las iniciativas y propuestas en el momento de post-pandemia que atravesamos. Por supuesto también la evaluación en temas como el efecto del cambio climático sobre la fenología y migración de las aves. <br><br>
+                <div class="col-sm-12 col-md-6"><p style="font-size: 1em;text-align: justify;">Un elenco de grandes expertos de cada temática participaran en ellas. Se suman 24 conferencias que abordarán temas fundamentales para obtener la excelencia en nuestros programas y alojamientos, el desarrollo económico a partir del birding y, particularmente, las iniciativas y propuestas en el momento de post-pandemia que atravesamos. Por supuesto también la evaluación en temas como el efecto del cambio climático sobre la fenología y migración de las aves. <br><br>
                   Pero además de la ciencia o, a través de ella, algunos de los más destacados comunicadores en aves de Europa nos acompañarán para darle otra visión, sorpresa o unas sonrisas a la ornitología. <br><br>
                   Son 48 invitados a lo largo de los seis días. Con un broche de oro en la última jornada donde llegamos al Birding 2.0, la economía y las estrategias de conservación que antes eran futuro y ahora son el presente más palpable, como el rewilding. <br><br>
                   El domingo 19 nos conectaremos solo un rato. Es un día de descanso, pero también para celebrar. Ese día los coordinadores de campamentos ornitológicos en el Himalaya, el Manu del Perú, Tanzania o el Mediterráneo, un total de 15 en 11 países nos hablarán desde sus propuestas y podremos elegir uno, a donde podremos ir… invitados! Un obsequio para que nos podamos encontrar en 2021 tras esta cuarentena que nos ha frenado las alas. </p>  </div>
+                  <div class="col-sm-12 col-md-6">
+                    <center>
+                      <div  id="carouselExampleIntervale" class="carousel cMovil slide mb-5" data-ride="carousel">
+                      <div class="carousel-inner">
+                        <div class="carousel-item active" data-interval="10000">
+                          <img src="views/images/core-img/elige.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item" data-interval="2000">
+                          <img src="views/images/core-img/elige2.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="views/images/core-img/elige3.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="views/images/core-img/elige4.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        
+                      </div>
+                      <a class="carousel-control-prev" href="#carouselExampleIntervale" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                      </a>
+                      <a class="carousel-control-next" href="#carouselExampleIntervale" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                      </a>
+                    </div>
+                    </center>
+                  </div>
 
-                   <br><br><br>
+    
                   
                      
-                </p></div>
+                </div>
               </div>
             </div>
-            <div class="container">
-              <center>
-                <div  id="carouselExampleIntervale" class="carousel cMovil slide mb-5" data-ride="carousel">
-                <div class="carousel-inner">
-                  <div class="carousel-item active" data-interval="10000">
-                    <img src="views/images/core-img/elige.jpg" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item" data-interval="2000">
-                    <img src="views/images/core-img/elige2.jpg" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="views/images/core-img/elige3.jpg" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="views/images/core-img/elige4.jpg" class="d-block w-100" alt="...">
-                  </div>
-                  
-                </div>
-                <a class="carousel-control-prev" href="#carouselExampleIntervale" role="button" data-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#carouselExampleIntervale" role="button" data-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Next</span>
-                </a>
-              </div>
-              </center>
-              
-              
-            </div>
-            <div class="row justify-content-between">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-5">
-                    <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
-                        <div class="backend-content">
-                            
-                            <h2 style="margin-right: -170%;">Mediterranean</h2>
-                            
-                        </div>
-                        <div class="portfolio-thumb">
-                            <p style="font-size: 2em;text-align: center !important;"></p>
-                            <p style="font-size: 1.5em;text-align: justify;">
-                              
-                              
-                                
-                            </p> 
-                        </div>
-                        <!-- <div class="portfolio-meta">
-                            <p class="portfolio-date">May 16 - 18, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div> -->
-                    </div>
-                </div>
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-6">
-                    <div class="single-portfolio-item mt-230 portfolio-item-2 wow fadeIn">
-                        <div class="backend-content">
-                            
-                        </div>
-                        <div class="portfolio-thumb">
-                            
-                        </div>
-                        <!-- <div class="portfolio-meta">
-                            <p class="portfolio-date">Sep 21 - 24, 2020</p>
-                            <h2>Birding Fest</h2>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-              <p style="text-align: justify;font-size:1em;"> <br><br> En 2020 la Vuelta Mediterránea de las Birdfairs (Mediterranean Birding Fest Round) no pasará por ninguna feria, ya que éstas se han aplazadopor la situación sanitaria global. No obstante, del 21 al 24 de septiembre estaremos en el Delta del Ebro (Cataluña) con la Fundación Plegadis en un curso internacional de ornitología y anillamiento, que replicaremos del 9 al 11 de octubre en la Stazione Ornitologica Oasi costiera (Italia) y del 16 al 18 de octubre en Limoges (Francia).</p>
+      
+            
+            <div class="container mt-5">
+              <p id="ladilla" style="text-align: justify;font-size:1em;"> <br><br> En 2020 la Vuelta Mediterránea de las Birdfairs (Mediterranean Birding Fest Round) no pasará por ninguna feria, ya que éstas se han aplazadopor la situación sanitaria global. No obstante, del 21 al 24 de septiembre estaremos en el Delta del Ebro (Cataluña) con la Fundación Plegadis en un curso internacional de ornitología y anillamiento, que replicaremos del 9 al 11 de octubre en la Stazione Ornitologica Oasi costiera (Italia) y del 16 al 18 de octubre en Limoges (Francia).</p>
             </div>
             
             <center> <br> <br><br>
@@ -195,7 +158,7 @@ function googleTranslateElementInit() {
               
             </div>
 
-            <p style="text-align: center;font-size: 20px;">Información: mediterraneo@birdingfest.net o entrando a nuestro grupo de whatsapp: <a style="font-size: 20px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirding</a> </p>
+            <p style="text-align: center;font-size: 20px;">Información: <a style="font-size: 20px;" href="mailto:mediterraneo@birdingfest.net">mediterraneo@birdingfest.net</a>  o entrando a nuestro grupo de whatsapp: <a style="font-size: 20px;" href="https://chat.whatsapp.com/HwOydoERYQe2T1SIpURb4y">www.ja.cat/medbirding</a> </p>
             <div class="row">
                 <!-- Single Portfoio Area -->
                 
@@ -203,7 +166,7 @@ function googleTranslateElementInit() {
 
             
         </div>
-    </div>
+    
     <div id="invitados" class="container mb-5"><h1 style="font-size:4em;" class="text-center">Invitados</h1>
       <center>
         <div class="row">
@@ -1077,7 +1040,7 @@ function googleTranslateElementInit() {
       <div class="contact-form text-center">
 
        
-        <h5>Puedes inscribirte directamente por paypal o tarjeta de credito / debito y luego contactandonos, o puedes usar este formulario para inscribirte por otros medios de pagos</h5>
+        <h5>Puedes inscribirte directamente por paypal o tarjeta de crédito / débito y luego contactándonos, o puedes usar este formulario para inscribirte por otros medios de pagos</h5>
 
         <form action="send" method="post" enctype="multipart/form-data">
             <div class="row">
