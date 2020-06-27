@@ -1,6 +1,9 @@
 
-<title>Mediterranean Birding Fest Round</title>
+<head>
+  <title>Mediterranean Birding Fest Round</title>
 <meta name="description" content="Ornithology & Birding School">
+</head>
+
 <body>
     <!-- Preloader Start -->
     <div id="preloader">
