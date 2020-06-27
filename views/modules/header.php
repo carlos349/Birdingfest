@@ -9,8 +9,9 @@
         </div>
         <!-- Logo Area -->
         <div class="logo-area">
+            <a href="index">
             <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
-            
+            </a>
         </div>
         <!-- Nav -->
         <div class="sonarNav wow fadeInUp" data-wow-delay="1s">
@@ -22,8 +23,12 @@
                     <li class="nav-item">
                         <a class="nav-link" href="courses">Courses and camps</a>
                     </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link" href="mediterraneo">Mediterraneo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="presencial">Presencial 2021</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="afrique">Afrique</a>
@@ -67,7 +72,9 @@
                     <div class="menu-area d-flex justify-content-between">
                         <!-- Logo Area  -->
                         <div class="logo-area">
+                            <a href="index">
                             <img src="views/images/core-img/logo.png" style="width:160px;heigth:80px;" alt="">
+                            </a>
                         </div>
 
                         <div class="menu-content-area d-flex align-items-center">

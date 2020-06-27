@@ -726,7 +726,7 @@ function googleTranslateElementInit() {
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round miércoles 15</span>
                   <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8 / 10 AM - Barcelona: 3 / 5 PM</span> Tertulia Birdfairs emergentes (fórmulas de colaboración)</h4>
-                  <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
+                  <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Francesc Kirchner (Delta Birding Fest). <br> 
                     <span >Ponentes</span> <br>
                     Elaise Cuao (Festival Aves Amazonas - Colombia) <br>
                     Flavia Cozzarelli (Panamá Bird Festival) <br>
@@ -781,7 +781,7 @@ function googleTranslateElementInit() {
                       </div>
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round jueves 16</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
-                  <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Abel Julien. <br> 
+                  <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Abel Julien. <br> 
                     <span style="font-size:20px">Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
                     Héctor Cardozo (Amazon Birding Fest) <br>
@@ -842,7 +842,7 @@ function googleTranslateElementInit() {
                 <div class="swiper-slide-content"><span class="timeline-year">Alojamientos y Birders viernes 17</span>
                     <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
-                    <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Xavier Amigó. <br> 
+                    <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Xavier Amigó. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
                       Jorge Bazante (Verde y Agua, Colombia) <br>
@@ -896,7 +896,7 @@ function googleTranslateElementInit() {
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round sábado 18</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
-                    <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Sergi Sales. <br> 
+                    <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Sergi Sales. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Erika Barreto /
                       Jhon Jiménez <br>
@@ -952,7 +952,7 @@ function googleTranslateElementInit() {
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span> Mohamédine Seck Djoudj: Rencontre du Djoudj sur Oiseaux Migrateurs (Sénégal)</h4> <br>
                       <h4 class="timeline-title"  style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:30 / 11:30 - Barcelona: 17:30 / 18:30</span>Andrew Majembe: Ornithological Camp in Tanzania
                       </h4> <br>
-                    <p class="timeline-text text-center"> <span style="font-size:20px">Expositores</span>  <br> Manuel Menéndez <br> 
+                    <p class="timeline-text text-center"> <span style="font-size:16px">Expositores</span>  <br> Manuel Menéndez <br> 
                         Sandra Díaz<br>
                         Guillem Chacón <br>
                       </p>
@@ -994,7 +994,7 @@ function googleTranslateElementInit() {
                   </div>
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round lunes 20</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
-                    <p class="timeline-text text-center"> <span style="font-size:20px">Moderador</span>  <br> Àlex de Juan. <br> 
+                    <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Àlex de Juan. <br> 
                       <span style="font-size:20px">Ponentes</span> <br>
                       Héctor Cardozo (Amazon Birding Fest) <br>
                       Deli Saavedra (Rewilding Europe) <br>
@@ -1092,20 +1092,20 @@ function googleTranslateElementInit() {
                 </select>
               </div>
           </div>
-          <div class="col-12 col-md-4">
-            <label for="cars">Adjunta aqui tu comprobante de pago</label>
-            <div class="form-group">
-                <input type="file" class="form-control"  name="pago" placeholder="Adjunta aqui tu comprobante de pago">
-            </div>
-        </div>
-                <div class="col-12">
+          
+                <div class="col-12 col-md-8">
                     <div class="form-group">
                         <textarea class="form-control" name="mensaje" id="message" cols="30" rows="10" placeholder="(Escribe aqui los datos solicitados) &#10;&#10;Datos de inscripción:&#10; &#10; - Si elegiste la opción 1 indícanos que día o días quieres inscribirte. &#10; - Si elegiste la opción 2 o 3 indícanos en que país deseas realizar tu curso o campamento gratuito. &#10; Luego puedes escribir cualquier otro dato o comentario que desees "></textarea>
                     </div>
                 </div>
-                <div class="col-12">
-                    <button type="submit" class="btn sonar-btn">Inscribirme</button>
-                </div>
+                <div class="col-12 col-md-4">
+                  <label for="cars">Adjunta aqui tu comprobante de pago</label>
+                  <div class="form-group">
+                      <input type="file" class="form-control"  name="pago" placeholder="Adjunta aqui tu comprobante de pago">
+                  </div>
+                  <button type="submit" class="btn sonar-btn">Inscribirme</button>
+              </div>
+                
             </div>
         </form>
     </div>
@@ -1130,6 +1130,11 @@ function googleTranslateElementInit() {
                               <div class="col-sm-12 col-md-4"><a class="btn sonar-btn mt-2 mb-5 text-center" href="#invitados">Invitados</a></div>
                           <div class="col-sm-12 col-md-4"><a class="btn sonar-btn mt-2 mb-5 text-center" href="#programaPc">Programas</a></div>
                           <div class="col-sm-12 col-md-4"><a class="btn sonar-btn mt-2 mb-5 text-center" href="#inscripcion">Inscripción</a></div>
+                          
+                            <div class="col-sm-12"><a class="btn sonar-btn mx-auto text-center" href="presencial">Presencial 2021</a></div>
+                      
+                          
+                            </div>
                             </div>
                             
                           </center>
