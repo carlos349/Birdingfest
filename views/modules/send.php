@@ -48,12 +48,15 @@
     $mensaje .= "--" . $uid . "--";
     //envio el email y verifico la respuesta de la función "email" (true o false)
     if (mail($destinatarioEmail, $asuntoEmail, $mensaje, $header)) {
-        echo 'El archivo fue enviado correctamente';
+        echo 'Tus datos fueron enviados correctamente';
     } else {
         echo 'Error, no se pudo enviar el email';
     }
     echo ', la página será recargada en ' . $tiempoEspera . ' segundos.';
-    echo '<meta http-equiv="refresh" content="' . $tiempoEspera . '">';
+    header('Location: mediterraneo');
+    echo "<script>
+    alert('Tus datos fueron enviados correctamente')
+</script>"
     exit();
 
 ?>
