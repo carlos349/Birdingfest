@@ -81,9 +81,9 @@
                             <!-- Header Social Area -->
                             <div class="header-social-area d-flex align-items-center">
                               
-                                <a href="https://www.instagram.com/birding_school/" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                <a href="https://www.facebook.com/birdingschool/" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                <a href="https://twitter.com/BirdingSchool" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="https://www.instagram.com/birding_school/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="https://www.facebook.com/birdingschool/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/BirdingSchool" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                             </div>
                             <!-- Menu Icon -->
                             <span class="navbar-toggler-icon" id="menuIcon"></span>

@@ -30,6 +30,8 @@
 				<a href="https://www.instagram.com/birding_school/?hl=es-la" target="_blank" class="size3 flex-c-m how-social trans-04 m-r-15 m-b-5 m-t-5">
 					<i class="fa fa-instagram"></i>
                 </a>
+
+				<a href="https://twitter.com/BirdingSchool" target="_blank" data-toggle="tooltip" class="size3 flex-c-m how-social trans-04 m-r-15 m-b-5 m-t-5" data-placement="bottom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 
 			</div>
 		</div>
