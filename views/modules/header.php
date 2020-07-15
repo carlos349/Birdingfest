@@ -31,7 +31,7 @@
                         <a class="nav-link" href="presencial">Mediterraneo 2021</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="afrique">Afrique</a>
+                        <a class="nav-link" href="senegal">Senegal</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="bolivia">Bolivia</a>
@@ -49,10 +49,10 @@
                         <a class="nav-link" href="stations">Stations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about">About us</a>
+                        <!-- <a class="nav-link" href="about">About us</a> -->
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="information">Info</a>
+                        <!-- <a class="nav-link" href="information">Info</a> -->
                     </li>
                 </ul>
             </nav>

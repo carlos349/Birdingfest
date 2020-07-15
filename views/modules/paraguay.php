@@ -32,7 +32,8 @@
                             <h2>Paraguay</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">La Birdfair nacional de Paraguay se estaba organizando para 2020, pero dada la situación de emergencia sanitaria global el festival se ha tenido que posponer para 2021. <br><br>
+                            <p style="font-size: 1em;text-align: justify;">El Paraguay Birding Fest se iba a presentar en 2020, pero dada la situación sanitaria global se
+celebrará en línea. Será del 3 al 7 de noviembre de 2020. <br><br>
                                  </p> <p style="font-size: 2em;text-align: center !important;">Pronto publicaremos información actualizada.</p>
                         </div>
                         <div class="portfolio-meta">
@@ -60,8 +61,8 @@
                             <h2 style="margin-top:25px;">Birning</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">
-                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: paraguay@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/paraguaybirdingfest/">www.facebook.com/paraguaybirdingfest/</a>
+                            <p style="font-size: 1em;text-align: justify;">
+                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: paraguay@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/paraguaybirdingfest/">www.facebook.com/paraguaybirdingfest/</a> <br> o Instagram: <br> <a href="https://www.instagram.com/paraguaybirdingfest/">@paraguaybirdingfest </a> 
                             </p>
                         </div>
                     </div>
@@ -76,7 +77,7 @@
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante, este año hemos participado en diferentes birdfairs y seremos parte en Europa del MediterraneanBirdingFestround, un Birding Fest en línea y presencial que recorre Italia, Suiza, Francia y Cataluña, de la mano de los ornitólogos de referencia del viejo continente y de América.</p>
+                            <p style="font-size: 1em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante, este año hemos participado en diferentes birdfairs y seremos parte en Europa del MediterraneanBirdingFestround, un Birding Fest en línea y presencial que recorre Italia, Suiza, Francia y Cataluña, de la mano de los ornitólogos de referencia del viejo continente y de América.</p>
                         </div>
                     </div>
                 </div>
@@ -91,7 +92,7 @@
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                        
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        
                     </div>
                 </div>
             </div>

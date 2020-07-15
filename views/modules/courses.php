@@ -163,7 +163,7 @@
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                         <h2>We are experienced birding</h2>
                         <h5></h5>
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        <!-- <a href="#" class="btn sonar-btn mt-100">contact us</a> -->
                     </div>
                 </div>
             </div>

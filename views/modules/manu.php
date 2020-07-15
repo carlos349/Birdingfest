@@ -32,7 +32,13 @@
                             <h2>Manu</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">La Birdfair del Manu, el enclave de mayor diversidad en aves del planeta, se estaba organizando para 2021. Dada la pandemia actual todo se está postergando y es posible que no se lleve a cabo hasta 2022. No obstante, desde 2019 estamos realizando eventos en Cusco y todo el entorno de la Reserva de la Biosfera del Manu.  <br><br>
+                            <p style="font-size: 1em;text-align: justify;">Con más de 1000 especies de aves, el espacio natural del Manu contiene aproximadamente el
+25% del total de aves en América y el 10% de las aves en el Mundo. <br> Manu Birding Fest es, por tanto, la birdfair del enclave con mayor diversidad de aves del
+planeta. <br>
+La edición de presentación se estaba organizando para 2020, pero dada la situación sanitaria
+global pasará a 2021, celebrándose este año una primera edición en línea. <br>
+El Manu Birding Fest de 2020 irá del 3 al 7 de noviembre.
+  <br><br>
                                  </p> <p style="font-size: 2em;text-align: center !important;">Pronto publicaremos información actualizada.</p>
                         </div>
                         <div class="portfolio-meta">
@@ -60,8 +66,8 @@
                             <h2 style="margin-top:25px;">Birning</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">
-                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: peru@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/manubirdingfest/">www.facebook.com/manubirdingfest/</a>
+                            <p style="font-size: 1em;text-align: justify;">
+                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: peru@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/manubirdingfest/">www.facebook.com/manubirdingfest/</a> <br> o Instagram: <br> <a href="https://www.instagram.com/manubirdingfest/">@manubirdingfest</a> 
                             </p>
                         </div>
                     </div>
@@ -76,7 +82,7 @@
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante, este año hemos participado en diferentes birdfairs y seremos parte en Europa del MediterraneanBirdingFestround, un Birding Fest en línea y presencial que recorre Italia, Suiza, Francia y Cataluña, de la mano de los ornitólogos de referencia del viejo continente y de América.</p>
+                            <p style="font-size: 1em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante, este año hemos participado en diferentes birdfairs y seremos parte en Europa del MediterraneanBirdingFestround, un Birding Fest en línea y presencial que recorre Italia, Suiza, Francia y Cataluña, de la mano de los ornitólogos de referencia del viejo continente y de América.</p>
                         </div>
                     </div>
                 </div>
@@ -91,7 +97,7 @@
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                        
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        <!-- <a href="#" class="btn sonar-btn mt-100">contact us</a> -->
                     </div>
                 </div>
             </div>

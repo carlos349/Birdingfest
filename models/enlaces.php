@@ -8,7 +8,7 @@ class EnlacesModels{
 			$enlaces == "contact" ||
 			$enlaces == "Information" ||
 			$enlaces == "courses" ||
-			$enlaces == "afrique" ||
+			$enlaces == "senegal" ||
 			$enlaces == "bolivia" ||
 			$enlaces == "manu" ||
 			$enlaces == "courses" ||

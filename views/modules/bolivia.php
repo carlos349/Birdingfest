@@ -32,7 +32,9 @@
                             <h2>Bolivia</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">La Birdfair nacional de Bolivia se estaba organizando para 2020, pero dada la situación de emergencia sanitaria global el festival se ha tenido que posponer para 2021. <br><br>
+                            <p style="font-size: 1em;text-align: justify;">La Birdfair nacional de Bolivia se estaba organizando para 2020, pero dada la situación de emergencia sanitaria global el festival se ha tenido que posponer para 2021 y este año se celebrará una primera edición en línea. <br><br>
+                            El Bolivia Birding Fest de 2020 irá del 3 al 7 de noviembre. <br><br>
+
                                  </p> <p style="font-size: 2em;text-align: center !important;">Pronto publicaremos información actualizada.</p>
                         </div>
                         <div class="portfolio-meta">
@@ -66,8 +68,9 @@
                             <h2 style="margin-top:25px;">Birning</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">
-                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: bolivia@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/boliviabirdingfest/">www.facebook.com/boliviabirdingfest/</a>
+                            <p style="font-size: 1em;text-align: justify;">
+                            Mientras tanto todas aquellas personas u organizaciones que quieran <br> ser parte, a cualquier nivel, pueden escribirnos a: bolivia@birdingfest.net <br> o seguirnos en nuestra fanpage: <br> <a style="font-size: 1.8em;" href="www.facebook.com/boliviabirdingfest/">www.facebook.com/boliviabirdingfest/</a> <br> o Instagram: <br> <a href="https://www.instagram.com/boliviabirdingfest/">@boliviabirdingfest</a> 
+
                             </p>
                         </div>
                         <!-- <div class="portfolio-meta">
@@ -86,7 +89,9 @@
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante, este año hemos participado en diferentes birdfairs y seremos parte en Europa del MediterraneanBirdingFestround, un Birding Fest en línea y presencial que recorre Italia, Suiza, Francia y Cataluña, de la mano de los ornitólogos de referencia del viejo continente y de América.</p>
+                            <p style="font-size: 1em;text-align: justify;margin-top: 20%;z-index: 1000;"> No obstante en 2019-2020 hemos participado en diferentes birdfairs y somos parte del
+Mediterranean BirdingFest round, un evento en línea y presencial que recorre Italia, Suiza,
+Francia y Cataluña, de la mano de los ornitólogos de referencia de todos los continentes.</p>
                         </div>
                         <!-- <div class="portfolio-meta">
                             <p class="portfolio-date">Oct 9 - 10 - 11, 2020</p>
@@ -109,7 +114,7 @@
                 <div class="col-12 mt-3">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                         
-                        <p style="font-size: 1.5em;">La Birdfair nacional de Bolivia se estaba organizando para 2020, pero dada la situación de emergencia sanitaria global el festival se ha tenido que posponer para 2021. <br><br>
+                        <p style="font-size: 1em;">La Birdfair nacional de Bolivia se estaba organizando para 2020, pero dada la situación de emergencia sanitaria global el festival se ha tenido que posponer para 2021. <br><br>
 
                            <span style="font-size: 1.8em;">Pronto publicaremos información actualizada.</span>  <br><br>
                             Mientras tanto todas aquellas personas u organizaciones que quieran ser parte, a cualquier nivel, pueden escribirnos a: bolivia@birdingfest.net o seguirnos en nuestra fanpage: <a style="font-size: 1.8em;" href="www.facebook.com/boliviabirdingfest/">www.facebook.com/boliviabirdingfest/</a>  <br><br>
@@ -132,7 +137,7 @@
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                        
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        <!-- <a href="#" class="btn sonar-btn mt-100">contact us</a> -->
                     </div>
                 </div>
             </div>

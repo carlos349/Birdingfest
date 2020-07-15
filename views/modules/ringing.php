@@ -29,10 +29,12 @@
                     <div class="single-portfolio-item mt-100 portfolio-item-1 wow fadeIn">
                         <div class="backend-content">
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
-                            <h2>Ringing</h2>
+                            <h2>Bird Ringing Fair
+</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">Following the first international calibration between bird ringers, held in 2019 at the Amazon Birding Fest, the initiative arose from the first specific bird fair for ringers. <br><br>
+                            <p style="font-size: 1em;text-align: justify;">Following the first international calibration between bird ringers, held in 2019 at the Amazon
+Birding Fest, the initiative arose from the first specific birdfair for ringers. <br><br>
                                  </p> <p style="font-size: 2em;text-align: center !important;">The proposal is to celebrate it biannually. And each time on a continent..</p>
                         </div>
                         <div class="portfolio-meta">
@@ -45,7 +47,7 @@
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <img src="views/images/bg-img/section.jpg" alt="">
+                            <img src="views/images/core-img/ringing.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -60,9 +62,10 @@
                             <h2 style="margin-top:25px;">Birning</h2>
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;">
-                            We are designing the first edition. We will be very happy to receive your proposals or alliances in: ringing@birdingfest.net
-And follow us on ourfanpage:
+                            <p style="font-size: 1em;text-align: justify;">
+                            We are designing the first edition. We will be very happy to receive your proposals or alliances
+in: ringing@birdingfest.net
+And follow us on our fanpage: 
  <br> <a style="font-size: 1.8em;" href="www.facebook.com/birdringingfair/">www.facebook.com/birdringingfair/</a>
                             </p>
                         </div>
@@ -78,7 +81,9 @@ And follow us on ourfanpage:
                             <img class="dots" src="views/images/core-img/dots.png" alt="">
                         </div>
                         <div class="portfolio-thumb">
-                            <p style="font-size: 1.5em;text-align: justify;margin-top: 20%;z-index: 1000;"> We also participate in various bird fairs and we are part of the Mediterranean Birding Fest Round in Europe, an online and face-to-face bird festival that crosses Italy, Switzerland, France and Catalonia, hand in hand with reference ornithologists of the old continent and America.</p>
+                            <p style="font-size: 1em;text-align: justify;margin-top: 20%;z-index: 1000;"> We also participate in various birdfairs and we are part of the Mediterranean BirdingFest
+Round in Europe, an online and face-to-face birdfestival that crosses Italy, Switzerland, France
+and Catalonia, along with great ornithologists and birders from all continents</p>
                         </div>
                     </div>
                 </div>
@@ -93,7 +98,7 @@ And follow us on ourfanpage:
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                        
-                        <a href="#" class="btn sonar-btn mt-100">contact us</a>
+                        
                     </div>
                 </div>
             </div>

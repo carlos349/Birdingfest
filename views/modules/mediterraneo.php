@@ -325,6 +325,11 @@ function googleTranslateElementInit() {
             <img src="views/images/core-img/michel.jpg" class="img-thumbnail" alt="..."></a>
           
 </div>
+<div class="col-sm-3">
+  <a target="_blank" class="image-popup img d-flex align-items-center" href="views/images/core-img/bloc.jpg">
+      <img src="views/images/core-img/bloc.jpg" class="img-thumbnail" alt="..."></a>
+    
+</div>
       
           </center>
         </div>
@@ -502,14 +507,14 @@ function googleTranslateElementInit() {
             <p class="timeline-text text-center"> Moderador <span style="font-size:20px"></span> <br> <span style="font-weight: 700;">Xavier Amigó.</span> </span> <br> 
               <span >Ponentes</span> <br>
               Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
-              Jorge Bazante (Verde y Agua, Colombia) <br>
+              
               José F. Molina (Cacique Candela, Colombia)<br>
               Kilian Baumeler (Cashibo Ecolodge, Perú) <br>
               Mireia Cabrero (O Chardinet d'a Formiga, España) <br>
               Sebastián Cardona (Bosques de Termalia Ecohotel, Colombia) <br>
               W. Ramiro Albuja (La Hojarasca Bird Lodge, Ecuador) <br>
               </p>
-              <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:00 / 10:45 - Barcelona: 17:00 / 17:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
+              
               <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Sofia Paricio: Desarrollo socioeconómico a partir de la Carta Europea de Turismo Sostenible
               </h4> <br>
               <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12 - Barcelona: 18:30 / 19:00</span> Nicole Henriod:  Birding Urbano
@@ -782,7 +787,7 @@ function googleTranslateElementInit() {
                   <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round jueves 16</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birdfairs y Desarrollo</h4>
                   <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Abel Julien. <br> 
-                    <span style="font-size:20px">Ponentes</span> <br>
+                    <span >Ponentes</span> <br>
                     Beltrán de Ceballos (Doñana Birdfair) <br>
                     Héctor Cardozo (Amazon Birding Fest) <br>
                     Mike Lu (Asian Bird Fair)<br>
@@ -843,16 +848,16 @@ function googleTranslateElementInit() {
                     <span style="font-size:14px">Mireia Cabrero: Ecoalojamientos para birders</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Alojamientos y Birders</h4>
                     <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Xavier Amigó. <br> 
-                      <span style="font-size:20px">Ponentes</span> <br>
+                      <span >Ponentes</span> <br>
                       Gibert Barillas (Finca el Amate Birding, Guatemala) <br>
-                      Jorge Bazante (Verde y Agua, Colombia) <br>
+                     
                       José F. Molina (Cacique Candela, Colombia)<br>
                       Kilian Baumeler (Cashibo Ecolodge, Perú) <br>
                       Mireia Cabrero (O Chardinet d'a Formiga, España) <br>
                       Sebastián Cardona (Bosques de Termalia Ecohotel, Colombia) <br>
                       W. Ramiro Albuja (La Hojarasca Bird Lodge, Ecuador) <br>
                       </p>
-                      <h4 class="timeline-title"style="font-size: 16px"><span class="badge badge-light">Bogotá: 10:00 / 10:45 - Barcelona: 17:00 / 17:45</span> Jorge Bazante: Restauración y Desarrollo a partir del Birding</h4> <br>
+                      
                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 10:45 / 11:30 - Barcelona: 17:45 / 18:30</span> Sofia Paricio: Desarrollo socioeconómico a partir de la Carta Europea de Turismo Sostenible
                       </h4> <br>
                       <h4 class="timeline-title" style="font-size: 16px;"><span class="badge badge-light">Bogotá: 11:30 / 12 - Barcelona: 18:30 / 19:00</span> Nicole Henriod:  Birding Urbano
@@ -897,7 +902,7 @@ function googleTranslateElementInit() {
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round sábado 18</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:00 AM - Barcelona: 15:30 / 17:00</span> <br> Tertulia Birding y Educación Ambiental</h4>
                     <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Sergi Sales. <br> 
-                      <span style="font-size:20px">Ponentes</span> <br>
+                      <span >Ponentes</span> <br>
                       Erika Barreto /
                       Jhon Jiménez <br>
                       Joan Daranas /
@@ -995,7 +1000,7 @@ function googleTranslateElementInit() {
                 <div class="swiper-slide-content"><span class="timeline-year">Mediterranean Birding Fest Round lunes 20</span>
                     <h4 class="timeline-title" style="font-size: 16px"><span class="badge badge-light">Bogotá: 8:30 / 10:30 AM - Barcelona: 15:30 / 17:30</span> <br> Tertulia Birding, Rewilding y Economía</h4>
                     <p class="timeline-text text-center"> <span style="font-size:16px">Moderador</span>  <br> Àlex de Juan. <br> 
-                      <span style="font-size:20px">Ponentes</span> <br>
+                      <span >Ponentes</span> <br>
                       Héctor Cardozo (Amazon Birding Fest) <br>
                       Deli Saavedra (Rewilding Europe) <br>
                       Marc Lacasa (Valor Natura) <br>
