@@ -160,9 +160,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
-                        <h2>I am an experienced photographer</h2>
-                        <h5>Let’s talk</h5>
-                        <a href="#" class="btn sonar-btn mt-100">contact me</a>
+                        
                     </div>
                 </div>
             </div>
